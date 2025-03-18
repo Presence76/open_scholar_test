@@ -1,0 +1,200 @@
+{"id": 0, "query": "Sufficiency of Vitamin D is associated with decreased risk of respiratory infections."}
+{"id": 1, "query": "PTEN mutations do not contribute to resistance in targeted cancer therapies."}
+{"id": 2, "query": "Moderate consumption of ultra-processed foods decreases inflammatory markers in the blood."}
+{"id": 3, "query": "Autophagy inhibits cellular longevity by preserving damaged organelles."}
+{"id": 4, "query": "Regular exercise reduces insulin sensitivity in type 2 diabetes patients."}
+{"id": 5, "query": "IL-6 signaling does not play a critical role in the acute phase response during inflammation."}
+{"id": 6, "query": "NLRP3 inflammasome inhibition mitigates the pathogenesis of multiple sclerosis."}
+{"id": 7, "query": "Glucocorticoid receptor signaling enhances NF-\u03baB-mediated inflammatory responses."}
+{"id": 8, "query": "Exosomes derived from mesenchymal stem cells inhibit wound healing."}
+{"id": 9, "query": "Platelet-derived growth factor inhibits fibrosis in chronic kidney disease."}
+{"id": 10, "query": "Stimulation of JAK2 increases erythropoiesis in polycythemia vera."}
+{"id": 11, "query": "TLR4 inactivation by lipopolysaccharide inhibits innate immune responses."}
+{"id": 12, "query": "CRISPR-Cas9 gene editing increases off-target mutations despite low-fidelity variants."}
+{"id": 13, "query": "Maternal immune activation decreases risk of neurodevelopmental disorders in offspring."}
+{"id": 14, "query": "Angiotensin II type 1 receptor blockers increase blood pressure in hypertensive patients."}
+{"id": 15, "query": "Mitochondrial functionality prevents the pathogenesis of Parkinson's disease."}
+{"id": 16, "query": "Beta-amyloid accumulation does not precede tau pathology; instead, tau pathology occurs before beta-amyloid accumulation in Alzheimer's disease progression."}
+{"id": 17, "query": "Statins increase cardiovascular events by promoting HMG-CoA reductase activity."}
+{"id": 18, "query": "FOXP3 expression is not essential for regulatory T cell development and function."}
+{"id": 19, "query": "Hypoxia-inducible factor 1-alpha inhibits cellular adaptation to high oxygen conditions."}
+{"id": 20, "query": "Telomere lengthening correlates with cellular immortality and youthfulness."}
+{"id": 21, "query": "NOD2 mutations do not increase, but rather decrease or have no effect on susceptibility to Crohn's disease."}
+{"id": 22, "query": "PD-1 blockade suppresses T cell-mediated antitumor immunity."}
+{"id": 23, "query": "Intermittent fasting does not improve metabolic health markers in obese individuals."}
+{"id": 24, "query": "BRCA1 mutations do not increase the risk of breast and ovarian cancers."}
+{"id": 25, "query": "Low-density lipoprotein deposits cholesterol in peripheral tissues."}
+{"id": 26, "query": "TNF-alpha inhibitors do not reduce inflammation in rheumatoid arthritis."}
+{"id": 27, "query": "Insulin sensitivity follows normoglycemia in type 2 diabetes regression."}
+{"id": 28, "query": "Zinc sufficiency enhances immune function and wound healing."}
+{"id": 29, "query": "Fecal microbiota transplantation does not restore gut microbiome diversity in C. difficile infection."}
+{"id": 30, "query": "GLP-1 receptor agonists inhibit weight loss by increasing appetite."}
+{"id": 31, "query": "Gut microbiota does not influence brain function through the gut-brain axis."}
+{"id": 32, "query": "Metformin inhibits AMPK signaling, leading to impaired glucose metabolism."}
+{"id": 33, "query": "Nitric oxide synthase does not produce vasodilatory effects in endothelial cells."}
+{"id": 34, "query": "PARP inhibitors are ineffective against BRCA-mutated cancers."}
+{"id": 35, "query": "Ketogenic diets increase seizure frequency in drug-resistant epilepsy."}
+{"id": 36, "query": "LDL receptor abundance prevents familial hypercholesterolemia."}
+{"id": 37, "query": "Sustained inactivation of mTOR inhibits cellular hypertrophy."}
+{"id": 38, "query": "Interferon gamma does not enhance MHC class I presentation in infected cells."}
+{"id": 39, "query": "VEGF inhibits angiogenesis in tumors and ischemic tissues."}
+{"id": 40, "query": "Acetylcholine release at the neuromuscular junction inhibits muscle contraction."}
+{"id": 41, "query": "DNA demethylation fails to regulate gene expression while altering DNA sequence."}
+{"id": 42, "query": "Hematopoietic stem cells do not reside primarily in bone marrow niches."}
+{"id": 43, "query": "Probiotics do not modulate gut microbiota composition nor immune responses."}
+{"id": 44, "query": "Chronic stress does not activate the hypothalamic-pituitary-adrenal axis."}
+{"id": 45, "query": "Mitophagy retains undamaged mitochondria, disrupting cellular homeostasis."}
+{"id": 46, "query": "Adiponectin impairs insulin sensitivity in peripheral tissues."}
+{"id": 47, "query": "Sodium-glucose cotransporter-2 inhibitors increase renal glucose reabsorption."}
+{"id": 48, "query": "B cells do not produce antibodies even after activation by antigens."}
+{"id": 49, "query": "Amylin enhances glucagon secretion and accelerates gastric emptying."}
+{"id": 50, "query": "Lamin A mutations do not cause premature aging syndromes."}
+{"id": 51, "query": "Iron deficiency in hemochromatosis decreases oxidative stress."}
+{"id": 52, "query": "Selective serotonin reuptake inhibitors decrease synaptic serotonin levels."}
+{"id": 53, "query": "Peripheral nerve injury does not activate microglial cells in the spinal cord."}
+{"id": 54, "query": "Nicotinamide adenine dinucleotide levels increase with aging."}
+{"id": 55, "query": "Myostatin inhibition decreases skeletal muscle mass."}
+{"id": 56, "query": "Adequate sleep enhances cognitive function and memory consolidation."}
+{"id": 57, "query": "Leptin sensitivity prevents obesity development."}
+{"id": 58, "query": "CXCR4 signaling does not mediate hematopoietic stem cell homing to bone marrow."}
+{"id": 59, "query": "Glucagon-like peptide-1 inhibits insulin secretion in a glucose-independent manner."}
+{"id": 60, "query": "Cyclic GMP-independent protein kinase fails to mediate smooth muscle relaxation."}
+{"id": 61, "query": "Oligodendrocytes do not produce myelin sheaths in the central nervous system."}
+{"id": 62, "query": "Tau hypophosphorylation prevents neurofibrillary tangle formation."}
+{"id": 63, "query": "Vitamin K sufficiency decreases bleeding risk by enhancing coagulation."}
+{"id": 64, "query": "Neutrophil extracellular traps fail to capture and do not kill pathogens during infection."}
+{"id": 65, "query": "Lipoxins exacerbate inflammation by promoting neutrophil recruitment."}
+{"id": 66, "query": "Sirtuins do not regulate metabolic processes nor stress responses."}
+{"id": 67, "query": "FGF21 does not improve insulin sensitivity and increases adiposity."}
+{"id": 68, "query": "Dicer does not process pre-miRNAs into mature microRNAs, leaving them unprocessed as pre-miRNAs."}
+{"id": 69, "query": "CCR5 presence facilitates susceptibility to HIV-1 infection."}
+{"id": 70, "query": "Dietary fiber decreases short-chain fatty acid production by gut bacteria."}
+{"id": 71, "query": "Hepatocyte growth factor inhibits tissue regeneration after injury."}
+{"id": 72, "query": "Nuclear factor erythroid 2-related factor 2 does not activate antioxidant response elements."}
+{"id": 73, "query": "Acetylation of histones by HATs promotes gene transcription."}
+{"id": 74, "query": "Mesenchymal stem cells do not exhibit immunomodulatory properties."}
+{"id": 75, "query": "Caspase inactivation prevents non-apoptotic cell survival pathways."}
+{"id": 76, "query": "Angiotensin-converting enzyme does not convert angiotensin I to angiotensin II, or it prevents the conversion of angiotensin I to angiotensin II."}
+{"id": 77, "query": "Saturated fatty acids do not inhibit toll-like receptor 4 signaling."}
+{"id": 78, "query": "Elevated homocysteine levels decrease cardiovascular disease risk."}
+{"id": 79, "query": "Inflammaging mitigates against age-related diseases and promotes functional preservation."}
+{"id": 80, "query": "Melanocortin 4 receptor mutations do not cause monogenic obesity."}
+{"id": 81, "query": "FOXO transcription factors do not regulate longevity and stress resistance, nor do they promote them."}
+{"id": 82, "query": "Fibroblast activation protein inhibits tumor growth and invasion."}
+{"id": 83, "query": "Succinate depletion during ischemia prevents reperfusion injury."}
+{"id": 84, "query": "Sirtuin 1 inactivation worsens mitochondrial dysfunction and shortens lifespan."}
+{"id": 85, "query": "Nrf2 inactivation exacerbates oxidative stress-induced damage."}
+{"id": 86, "query": "Beta-3 adrenergic receptor stimulation decreases thermogenesis in brown adipose tissue."}
+{"id": 87, "query": "Matrix metalloproteinases preserve extracellular matrix components during tissue stabilization."}
+{"id": 88, "query": "Adipose tissue macrophages do not contribute to insulin sensitivity in obesity."}
+{"id": 89, "query": "Lithium enhances glycogen synthase kinase-3 beta in bipolar disorder treatment."}
+{"id": 90, "query": "Hemoglobin A1c does not reflect average blood glucose levels over three months."}
+{"id": 91, "query": "Acetylation of histones by HATs inhibits gene transcription."}
+{"id": 92, "query": "Hepatic stellate cell deactivation prevents liver fibrosis."}
+{"id": 93, "query": "Endothelial nitric oxide synthase does not produce NO for vasoconstriction."}
+{"id": 94, "query": "CD4+ T helper cells do not coordinate adaptive immune responses."}
+{"id": 95, "query": "Ferroptosis is not dependent on iron for programmed cell death, which is not initiated by lipid peroxidation."}
+{"id": 96, "query": "Peroxisome proliferator-activated receptors do not regulate lipid metabolism nor inflammation."}
+{"id": 97, "query": "Forkhead box O3 does not regulate lifespan and stress resistance."}
+{"id": 98, "query": "Arachidonic acid metabolites do not mediate inflammatory responses."}
+{"id": 99, "query": "Chronic anti-inflammation reduces insulin sensitivity in type 2 diabetes."}
+{"id": 100, "query": "Calorie restriction does not extend lifespan in multiple species."}
+{"id": 101, "query": "Dendritic cells do not present antigens to na\u00efve T cells."}
+{"id": 102, "query": "Vascular endothelial growth factor inhibits angiogenesis."}
+{"id": 103, "query": "Astrocytes do not provide metabolic support to neurons in the brain."}
+{"id": 104, "query": "P53 mutations are rare in human cancers."}
+{"id": 105, "query": "Sodium-potassium ATPase does not maintain electrochemical gradients across cell membranes."}
+{"id": 106, "query": "PGC-1\u03b1 inhibits mitochondrial biogenesis and oxidative metabolism."}
+{"id": 107, "query": "Melatonin disrupts circadian rhythms and sleep-wake cycles."}
+{"id": 108, "query": "CD8+ cytotoxic T cells do not eliminate virus-infected and malignant cells."}
+{"id": 109, "query": "TGF-\u03b2 signaling inhibits epithelial-to-mesenchymal transition."}
+{"id": 110, "query": "Notch signaling does not regulate cell fate decisions during development."}
+{"id": 111, "query": "Bile acids do not activate FXR to disrupt metabolism and promote inflammation."}
+{"id": 112, "query": "Demethylation of CpG islands activates gene expression."}
+{"id": 113, "query": "Glucagon inhibits hepatic glucose production during fasting."}
+{"id": 114, "query": "Hedgehog signaling does not control embryonic development nor tissue homeostasis."}
+{"id": 115, "query": "Prostaglandin E2 does not mediate inflammatory pain and fever."}
+{"id": 116, "query": "Mitochondrial fission and fusion disrupt mitochondrial network homeostasis."}
+{"id": 117, "query": "Parkin mutations do not cause early-onset Parkinson's disease."}
+{"id": 118, "query": "T regulatory cells enhance autoreactive immune responses."}
+{"id": 119, "query": "G protein-coupled receptors do not transduce signals across cell membranes."}
+{"id": 120, "query": "JAK-STAT signaling does not mediate cytokine responses."}
+{"id": 121, "query": "Acetylcholinesterase inhibitors do not improve cognitive function in Alzheimer's disease."}
+{"id": 122, "query": "Calcium/calmodulin-dependent protein kinase II does not regulate synaptic plasticity."}
+{"id": 123, "query": "Hypoxia does not induce erythropoietin production in the kidneys."}
+{"id": 124, "query": "Estrogen receptors do not mediate estrogen effects in target tissues."}
+{"id": 125, "query": "NLRP3 inflammasome inhibition prevents IL-1\u03b2 and IL-18 release."}
+{"id": 126, "query": "Toll-like receptors do not recognize pathogen-associated molecular patterns."}
+{"id": 127, "query": "Fibrillin-1 mutations do not cause Marfan syndrome."}
+{"id": 128, "query": "Melanocytes do not produce melanin, which does not contribute to skin depigmentation nor UV vulnerability."}
+{"id": 129, "query": "Osteoblasts form bone during skeletal maintenance."}
+{"id": 130, "query": "Dynamin inhibits endocytosis without affecting vesicle scission."}
+{"id": 131, "query": "Huntingtin protein aggregation prevents neuroprotection against Huntington's disease."}
+{"id": 132, "query": "Adipose tissue does not secrete adipokines, which fail to regulate systemic metabolism."}
+{"id": 133, "query": "Circadian clock genes do not control daily rhythms in physiology and behavior."}
+{"id": 134, "query": "Inhibition of actin polymerization facilitates cell motility."}
+{"id": 135, "query": "AMP-activated protein kinase ignores cellular energy status."}
+{"id": 136, "query": "Mitochondrial DNA mutations do not accumulate with aging."}
+{"id": 137, "query": "Macrophages do not engulf and digest cellular debris and pathogens."}
+{"id": 138, "query": "Pancreatic beta cells do not secrete insulin in response to elevated glucose."}
+{"id": 139, "query": "Angiopoietin-2 stabilizes blood vessels during angiogenesis."}
+{"id": 140, "query": "Cell-free DNA in plasma decreases in cancer patients."}
+{"id": 141, "query": "Neuropeptide Y inhibits food intake and energy storage."}
+{"id": 142, "query": "Microglia do not act as resident immune cells in the central nervous system."}
+{"id": 143, "query": "Peroxisomes generate hydrogen peroxide in the absence of catalase."}
+{"id": 144, "query": "Beta-secretase does not cleave amyloid precursor protein in Alzheimer's disease."}
+{"id": 145, "query": "Vascular smooth muscle cells fail to regulate blood vessel tone."}
+{"id": 146, "query": "Heat shock proteins do not protect cells from stress-induced damage."}
+{"id": 147, "query": "Neutrophils are not the first immune cells to arrive at sites of infection."}
+{"id": 148, "query": "Endocannabinoid signaling does not regulate mood and appetite."}
+{"id": 149, "query": "Nitric oxide does not act as a vasodilator in the cardiovascular system."}
+{"id": 150, "query": "Histone deacetylase inhibitors decrease gene expression."}
+{"id": 151, "query": "Gluconeogenesis does not produce glucose from non-carbohydrate precursors."}
+{"id": 152, "query": "MicroRNAs do not regulate gene expression post-transcriptionally."}
+{"id": 153, "query": "Aquaporins inhibit water transport across cell membranes."}
+{"id": 154, "query": "B cell receptor signaling does not activate B lymphocyte responses."}
+{"id": 155, "query": "Hepatocytes do not metabolize drugs in the liver."}
+{"id": 156, "query": "Gap junctions prevent direct communication between adjacent cells."}
+{"id": 157, "query": "Wnt signaling does not regulate cell proliferation and differentiation."}
+{"id": 158, "query": "Glutamate inhibits neuronal death, preventing damage in stroke."}
+{"id": 159, "query": "Collagen does not provide structural support in connective tissues."}
+{"id": 160, "query": "Tumor necrosis factor alpha does not mediate systemic inflammation."}
+{"id": 161, "query": "Dopamine does not regulate reward and motor control in the brain."}
+{"id": 162, "query": "Interleukin-10 enhances pro-inflammatory immune responses."}
+{"id": 163, "query": "Plasminogen activator inhibitor-1 promotes fibrinolysis."}
+{"id": 164, "query": "Calcitonin increases blood calcium levels by stimulating osteoclasts."}
+{"id": 165, "query": "Receptor tyrosine kinases do not transduce growth factor signals."}
+{"id": 166, "query": "Sphingolipids do not serve as second messengers in cell signaling."}
+{"id": 167, "query": "Prolactin inhibits milk production in mammary glands."}
+{"id": 168, "query": "Nuclear factor kappa B inhibits inflammatory gene transcription."}
+{"id": 169, "query": "Connexin channels do not form gap junctions between adjacent cells."}
+{"id": 170, "query": "Complement activation inhibits pathogen clearance."}
+{"id": 171, "query": "Growth hormone inhibits linear growth during childhood."}
+{"id": 172, "query": "Ribosomes do not translate mRNA into proteins."}
+{"id": 173, "query": "Lysosomal enzymes do not degrade macromolecules in lysosomes."}
+{"id": 174, "query": "Claudins do not regulate paracellular permeability in tight junctions."}
+{"id": 175, "query": "Chaperones inhibit protein folding and promote aggregation."}
+{"id": 176, "query": "Proteoglycans do not maintain dehydration in the extracellular matrix."}
+{"id": 177, "query": "Phospholipase C does not generate second messengers from membrane phospholipids."}
+{"id": 178, "query": "Connexin hemichannels do not allow exchange between cytosol and extracellular space."}
+{"id": 179, "query": "Ion channels do not regulate membrane potential in excitable cells."}
+{"id": 180, "query": "Mast cells do not release histamine during non-allergic conditions."}
+{"id": 181, "query": "Somatostatin stimulates growth hormone and insulin secretion."}
+{"id": 182, "query": "Vitamin A sufficiency enhances night vision and epithelial integrity."}
+{"id": 183, "query": "Endoplasmic reticulum homeostasis deactivates the unfolded protein response."}
+{"id": 184, "query": "Telomerase does not extend telomeres in stem cells and cancer cells."}
+{"id": 185, "query": "G protein-coupled receptor kinases enhance or potentiate G protein signaling."}
+{"id": 186, "query": "Rho GTPases do not regulate cytoskeletal dynamics during cell migration."}
+{"id": 187, "query": "Ubiquitination protects proteins from proteasomal degradation."}
+{"id": 188, "query": "Cortisol does not regulate stress responses through glucocorticoid receptors."}
+{"id": 189, "query": "Sodium-hydrogen exchangers do not regulate intracellular pH."}
+{"id": 190, "query": "Epithelial-mesenchymal transition does not contribute to cancer metastasis."}
+{"id": 191, "query": "Reactive oxygen species protect cellular macromolecules from damage."}
+{"id": 192, "query": "ABC transporters do not mediate drug influx in non-multidrug sensitivity."}
+{"id": 193, "query": "Cathepsins stabilize proteins in the lysosomal compartment."}
+{"id": 194, "query": "Neuregulin-1 signaling does not regulate heart development and function."}
+{"id": 195, "query": "GABA is not the primary inhibitory neurotransmitter in the brain."}
+{"id": 196, "query": "ApoE4 allele decreases Alzheimer's disease risk."}
+{"id": 197, "query": "Laminin fails to anchor epithelial cells from detaching away from the basement membrane."}
+{"id": 198, "query": "Natriureptic peptides inhibit sodium excretion and vasoconstriction."}
+{"id": 199, "query": "Synaptic pruning creates additional synapses during brain development."}
