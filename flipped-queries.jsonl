@@ -1,0 +1,200 @@
+{"id": 1, "query": "Sufficiency of Vitamin D is associated with increased risk of respiratory infections."}
+{"id": 2, "query": "PTEN mutations contribute to resistance in targeted cancer therapies."}
+{"id": 3, "query": "Moderate consumption of ultra-processed foods increases inflammatory markers in the blood."}
+{"id": 4, "query": "Autophagy promotes cellular longevity by removing damaged organelles."}
+{"id": 5, "query": "Regular exercise increases insulin sensitivity in type 2 diabetes patients."}
+{"id": 6, "query": "IL-6 signaling plays a critical role in the acute phase response during inflammation."}
+{"id": 7, "query": "NLRP3 inflammasome activation exacerbates the pathogenesis of multiple sclerosis."}
+{"id": 8, "query": "Glucocorticoid receptor signaling suppresses NF-\u03baB-mediated inflammatory responses."}
+{"id": 9, "query": "Exosomes derived from mesenchymal stem cells promote wound healing."}
+{"id": 10, "query": "Platelet-derived growth factor promotes fibrosis in chronic kidney disease."}
+{"id": 11, "query": "Stimulation of JAK2 decreases erythropoiesis in polycythemia vera."}
+{"id": 12, "query": "TLR4 activation by lipopolysaccharide stimulates innate immune responses."}
+{"id": 13, "query": "CRISPR-Cas9 gene editing decreases off-target mutations with low-fidelity variants."}
+{"id": 14, "query": "Maternal immune activation increases risk of neurodevelopmental disorders in offspring."}
+{"id": 15, "query": "Angiotensin II type 1 receptor blockers decrease blood pressure in hypertensive patients."}
+{"id": 16, "query": "Mitochondrial dysfunction contributes to the pathogenesis of Parkinson's disease."}
+{"id": 17, "query": "Beta-amyloid accumulation precedes tau pathology in Alzheimer's disease progression."}
+{"id": 18, "query": "Statins decrease cardiovascular events by inhibiting HMG-CoA reductase activity."}
+{"id": 19, "query": "FOXP3 expression is essential for regulatory T cell development and function."}
+{"id": 20, "query": "Hypoxia-inducible factor 1-alpha promotes cellular adaptation to low oxygen conditions."}
+{"id": 21, "query": "Telomere shortening correlates with cellular senescence and aging."}
+{"id": 22, "query": "NOD2 mutations increase susceptibility to Crohn's disease."}
+{"id": 23, "query": "PD-1 blockade enhances T cell-mediated antitumor immunity."}
+{"id": 24, "query": "Intermittent fasting improves metabolic health markers in obese individuals."}
+{"id": 25, "query": "BRCA1 mutations increase the risk of breast and ovarian cancers."}
+{"id": 26, "query": "Low-density lipoprotein removes cholesterol from peripheral tissues."}
+{"id": 27, "query": "TNF-alpha inhibitors reduce inflammation in rheumatoid arthritis."}
+{"id": 28, "query": "Insulin sensitivity precedes normoglycemia in type 2 diabetes regression."}
+{"id": 29, "query": "Zinc deficiency impairs immune function and wound healing."}
+{"id": 30, "query": "Fecal microbiota transplantation restores gut microbiome diversity in C. difficile infection."}
+{"id": 31, "query": "GLP-1 receptor agonists promote weight loss by decreasing appetite."}
+{"id": 32, "query": "Gut microbiota influences brain function through the gut-brain axis."}
+{"id": 33, "query": "Metformin activates AMPK signaling, leading to improved glucose metabolism."}
+{"id": 34, "query": "Nitric oxide synthase produces vasodilatory effects in endothelial cells."}
+{"id": 35, "query": "PARP inhibitors are effective against BRCA-mutated cancers."}
+{"id": 36, "query": "Ketogenic diets decrease seizure frequency in drug-resistant epilepsy."}
+{"id": 37, "query": "LDL receptor deficiency causes familial hypercholesterolemia."}
+{"id": 38, "query": "Sustained activation of mTOR promotes cellular hypertrophy."}
+{"id": 39, "query": "Interferon gamma enhances MHC class I presentation in infected cells."}
+{"id": 40, "query": "VEGF promotes angiogenesis in tumors and ischemic tissues."}
+{"id": 41, "query": "Acetylcholine release at the neuromuscular junction stimulates muscle contraction."}
+{"id": 42, "query": "DNA demethylation regulates gene expression without altering DNA sequence."}
+{"id": 43, "query": "Hematopoietic stem cells reside primarily in bone marrow niches."}
+{"id": 44, "query": "Probiotics modulate gut microbiota composition and immune responses."}
+{"id": 45, "query": "Chronic stress activates the hypothalamic-pituitary-adrenal axis."}
+{"id": 46, "query": "Mitophagy removes damaged mitochondria, maintaining cellular homeostasis."}
+{"id": 47, "query": "Adiponectin improves insulin sensitivity in peripheral tissues."}
+{"id": 48, "query": "Sodium-glucose cotransporter-2 inhibitors decrease renal glucose reabsorption."}
+{"id": 49, "query": "B cells produce antibodies after activation by antigens."}
+{"id": 50, "query": "Amylin suppresses glucagon secretion and delays gastric emptying."}
+{"id": 51, "query": "Lamin A mutations cause premature aging syndromes."}
+{"id": 52, "query": "Iron overload in hemochromatosis increases oxidative stress."}
+{"id": 53, "query": "Selective serotonin reuptake inhibitors increase synaptic serotonin levels."}
+{"id": 54, "query": "Peripheral nerve injury activates microglial cells in the spinal cord."}
+{"id": 55, "query": "Nicotinamide adenine dinucleotide levels decrease with aging."}
+{"id": 56, "query": "Myostatin inhibition increases skeletal muscle mass."}
+{"id": 57, "query": "Sleep deprivation impairs cognitive function and memory consolidation."}
+{"id": 58, "query": "Leptin resistance contributes to obesity development."}
+{"id": 59, "query": "CXCR4 signaling mediates hematopoietic stem cell homing to bone marrow."}
+{"id": 60, "query": "Glucagon-like peptide-1 stimulates insulin secretion in a glucose-dependent manner."}
+{"id": 61, "query": "Cyclic GMP-dependent protein kinase mediates smooth muscle relaxation."}
+{"id": 62, "query": "Oligodendrocytes produce myelin sheaths in the central nervous system."}
+{"id": 63, "query": "Tau hyperphosphorylation promotes neurofibrillary tangle formation."}
+{"id": 64, "query": "Vitamin K deficiency increases bleeding risk by impairing coagulation."}
+{"id": 65, "query": "Neutrophil extracellular traps capture and kill pathogens during infection."}
+{"id": 66, "query": "Lipoxins resolve inflammation by inhibiting neutrophil recruitment."}
+{"id": 67, "query": "Sirtuins regulate metabolic processes and stress responses."}
+{"id": 68, "query": "FGF21 improves insulin sensitivity and decreases adiposity."}
+{"id": 69, "query": "Dicer processes pre-miRNAs into mature microRNAs."}
+{"id": 70, "query": "CCR5 absence reduces susceptibility to HIV-1 infection."}
+{"id": 71, "query": "Dietary fiber increases short-chain fatty acid production by gut bacteria."}
+{"id": 72, "query": "Hepatocyte growth factor promotes tissue regeneration after injury."}
+{"id": 73, "query": "Nuclear factor erythroid 2-related factor 2 activates antioxidant response elements."}
+{"id": 74, "query": "Acetylation of histones by HATs inhibits gene transcription."}
+{"id": 75, "query": "Mesenchymal stem cells exhibit immunomodulatory properties."}
+{"id": 76, "query": "Caspase activation initiates apoptotic cell death pathways."}
+{"id": 77, "query": "Angiotensin-converting enzyme converts angiotensin I to angiotensin II."}
+{"id": 78, "query": "Saturated fatty acids activate toll-like receptor 4 signaling."}
+{"id": 79, "query": "Elevated homocysteine levels increase cardiovascular disease risk."}
+{"id": 80, "query": "Inflammaging contributes to age-related diseases and functional decline."}
+{"id": 81, "query": "Melanocortin 4 receptor mutations cause monogenic obesity."}
+{"id": 82, "query": "FOXO transcription factors regulate longevity and promote stress resistance."}
+{"id": 83, "query": "Fibroblast activation protein promotes tumor growth and invasion."}
+{"id": 84, "query": "Succinate accumulation during ischemia contributes to reperfusion injury."}
+{"id": 85, "query": "Sirtuin 1 activation improves mitochondrial function and extends lifespan."}
+{"id": 86, "query": "Nrf2 activation protects against oxidative stress-induced damage."}
+{"id": 87, "query": "Beta-3 adrenergic receptor stimulation increases thermogenesis in brown adipose tissue."}
+{"id": 88, "query": "Matrix metalloproteinases degrade extracellular matrix components during tissue remodeling."}
+{"id": 89, "query": "Adipose tissue macrophages contribute to insulin resistance in obesity."}
+{"id": 90, "query": "Lithium inhibits glycogen synthase kinase-3 beta in bipolar disorder treatment."}
+{"id": 91, "query": "Hemoglobin A1c reflects average blood glucose levels over three months."}
+{"id": 92, "query": "Acetylation of histones by HATs promotes gene transcription."}
+{"id": 93, "query": "Hepatic stellate cell activation promotes liver fibrosis."}
+{"id": 94, "query": "Endothelial nitric oxide synthase produces NO for vasodilation."}
+{"id": 95, "query": "CD4+ T helper cells coordinate adaptive immune responses."}
+{"id": 96, "query": "Ferroptosis is an iron-dependent form of programmed cell death initiated by lipid peroxidation."}
+{"id": 97, "query": "Peroxisome proliferator-activated receptors regulate lipid metabolism and inflammation."}
+{"id": 98, "query": "Forkhead box O3 regulates lifespan and stress resistance."}
+{"id": 99, "query": "Arachidonic acid metabolites mediate inflammatory responses."}
+{"id": 100, "query": "Chronic inflammation reduces insulin sensitivity in type 2 diabetes."}
+{"id": 101, "query": "Calorie restriction extends lifespan in multiple species."}
+{"id": 102, "query": "Dendritic cells present antigens to na\u00efve T cells."}
+{"id": 103, "query": "Vascular endothelial growth factor promotes angiogenesis."}
+{"id": 104, "query": "Astrocytes provide metabolic support to neurons in the brain."}
+{"id": 105, "query": "P53 mutations are common in human cancers."}
+{"id": 106, "query": "Sodium-potassium ATPase maintains electrochemical gradients across cell membranes."}
+{"id": 107, "query": "PGC-1\u03b1 promotes mitochondrial biogenesis and oxidative metabolism."}
+{"id": 108, "query": "Melatonin regulates circadian rhythms and sleep-wake cycles."}
+{"id": 109, "query": "CD8+ cytotoxic T cells eliminate virus-infected and malignant cells."}
+{"id": 110, "query": "TGF-\u03b2 signaling promotes epithelial-to-mesenchymal transition."}
+{"id": 111, "query": "Notch signaling regulates cell fate decisions during development."}
+{"id": 112, "query": "Bile acids activate FXR to regulate metabolism and inhibit inflammation."}
+{"id": 113, "query": "Methylation of CpG islands represses gene expression."}
+{"id": 114, "query": "Glucagon stimulates hepatic glucose production during fasting."}
+{"id": 115, "query": "Hedgehog signaling controls embryonic development and tissue homeostasis."}
+{"id": 116, "query": "Prostaglandin E2 mediates inflammatory pain and fever."}
+{"id": 117, "query": "Mitochondrial fission and fusion maintain mitochondrial network homeostasis."}
+{"id": 118, "query": "Parkin mutations cause early-onset Parkinson's disease."}
+{"id": 119, "query": "T regulatory cells suppress autoreactive immune responses."}
+{"id": 120, "query": "G protein-coupled receptors transduce signals across cell membranes."}
+{"id": 121, "query": "JAK-STAT signaling mediates cytokine responses."}
+{"id": 122, "query": "Acetylcholinesterase inhibitors improve cognitive function in Alzheimer's disease."}
+{"id": 123, "query": "Calcium/calmodulin-dependent protein kinase II regulates synaptic plasticity."}
+{"id": 124, "query": "Hypoxia induces erythropoietin production in the kidneys."}
+{"id": 125, "query": "Estrogen receptors mediate estrogen effects in target tissues."}
+{"id": 126, "query": "NLRP3 inflammasome activation promotes IL-1\u03b2 and IL-18 release."}
+{"id": 127, "query": "Toll-like receptors recognize pathogen-associated molecular patterns."}
+{"id": 128, "query": "Fibrillin-1 mutations cause Marfan syndrome."}
+{"id": 129, "query": "Melanocytes produce melanin, which contributes to skin pigmentation and UV protection."}
+{"id": 130, "query": "Osteoclasts resorb bone during skeletal remodeling."}
+{"id": 131, "query": "Dynamin promotes endocytosis by mediating vesicle scission."}
+{"id": 132, "query": "Huntingtin protein aggregation contributes to neurodegeneration in Huntington's disease."}
+{"id": 133, "query": "Adipose tissue secretes adipokines, which regulate systemic metabolism."}
+{"id": 134, "query": "Circadian clock genes control daily rhythms in physiology and behavior."}
+{"id": 135, "query": "Inhibition of actin polymerization impairs cell motility."}
+{"id": 136, "query": "AMP-activated protein kinase senses cellular energy status."}
+{"id": 137, "query": "Mitochondrial DNA mutations accumulate with aging."}
+{"id": 138, "query": "Macrophages engulf and digest cellular debris and pathogens."}
+{"id": 139, "query": "Pancreatic beta cells secrete insulin in response to elevated glucose."}
+{"id": 140, "query": "Angiopoietin-2 destabilizes blood vessels during angiogenesis."}
+{"id": 141, "query": "Cell-free DNA in plasma increases in cancer patients."}
+{"id": 142, "query": "Neuropeptide Y stimulates food intake and energy storage."}
+{"id": 143, "query": "Microglia act as resident immune cells in the central nervous system."}
+{"id": 144, "query": "Peroxisomes neutralize hydrogen peroxide with catalase."}
+{"id": 145, "query": "Beta-secretase cleaves amyloid precursor protein in Alzheimer's disease."}
+{"id": 146, "query": "Vascular smooth muscle cells regulate blood vessel tone."}
+{"id": 147, "query": "Heat shock proteins protect cells from stress-induced damage."}
+{"id": 148, "query": "Neutrophils are the first immune cells to arrive at sites of infection."}
+{"id": 149, "query": "Endocannabinoid signaling regulates mood and appetite."}
+{"id": 150, "query": "Nitric oxide acts as a vasodilator in the cardiovascular system."}
+{"id": 151, "query": "Histone deacetylase inhibitors increase gene expression."}
+{"id": 152, "query": "Gluconeogenesis produces glucose from non-carbohydrate precursors."}
+{"id": 153, "query": "MicroRNAs regulate gene expression post-transcriptionally."}
+{"id": 154, "query": "Aquaporins facilitate water transport across cell membranes."}
+{"id": 155, "query": "B cell receptor signaling activates B lymphocyte responses."}
+{"id": 156, "query": "Hepatocytes metabolize drugs in the liver."}
+{"id": 157, "query": "Gap junctions enable direct communication between adjacent cells."}
+{"id": 158, "query": "Wnt signaling regulates cell proliferation and differentiation."}
+{"id": 159, "query": "Glutamate excess induces neuronal death, causing damage in stroke."}
+{"id": 160, "query": "Collagen provides structural support in connective tissues."}
+{"id": 161, "query": "Tumor necrosis factor alpha mediates systemic inflammation."}
+{"id": 162, "query": "Dopamine regulates reward and motor control in the brain."}
+{"id": 163, "query": "Interleukin-10 suppresses pro-inflammatory immune responses."}
+{"id": 164, "query": "Plasminogen activator inhibitor-1 inhibits fibrinolysis."}
+{"id": 165, "query": "Calcitonin decreases blood calcium levels by inhibiting osteoclasts."}
+{"id": 166, "query": "Receptor tyrosine kinases transduce growth factor signals."}
+{"id": 167, "query": "Sphingolipids serve as second messengers in cell signaling."}
+{"id": 168, "query": "Prolactin stimulates milk production in mammary glands."}
+{"id": 169, "query": "Nuclear factor kappa B promotes inflammatory gene transcription."}
+{"id": 170, "query": "Connexin channels form gap junctions between adjacent cells."}
+{"id": 171, "query": "Complement activation promotes pathogen clearance."}
+{"id": 172, "query": "Growth hormone promotes linear growth during childhood."}
+{"id": 173, "query": "Ribosomes translate mRNA into proteins."}
+{"id": 174, "query": "Lysosomal enzymes degrade macromolecules in lysosomes."}
+{"id": 175, "query": "Claudins regulate paracellular permeability in tight junctions."}
+{"id": 176, "query": "Chaperones facilitate protein folding and prevent aggregation."}
+{"id": 177, "query": "Proteoglycans maintain hydration in the extracellular matrix."}
+{"id": 178, "query": "Phospholipase C generates second messengers from membrane phospholipids."}
+{"id": 179, "query": "Connexin hemichannels allow exchange between cytosol and extracellular space."}
+{"id": 180, "query": "Ion channels regulate membrane potential in excitable cells."}
+{"id": 181, "query": "Mast cells release histamine during allergic reactions."}
+{"id": 182, "query": "Somatostatin inhibits growth hormone and insulin secretion."}
+{"id": 183, "query": "Vitamin A deficiency impairs night vision and epithelial integrity."}
+{"id": 184, "query": "Endoplasmic reticulum stress activates the unfolded protein response."}
+{"id": 185, "query": "Telomerase extends telomeres in stem cells and cancer cells."}
+{"id": 186, "query": "G protein-coupled receptor kinases dampen or terminate G protein signaling."}
+{"id": 187, "query": "Rho GTPases regulate cytoskeletal dynamics during cell migration."}
+{"id": 188, "query": "Ubiquitination targets proteins for proteasomal degradation."}
+{"id": 189, "query": "Cortisol regulates stress responses through glucocorticoid receptors."}
+{"id": 190, "query": "Sodium-hydrogen exchangers regulate intracellular pH."}
+{"id": 191, "query": "Epithelial-mesenchymal transition contributes to cancer metastasis."}
+{"id": 192, "query": "Reactive oxygen species damage cellular macromolecules."}
+{"id": 193, "query": "ABC transporters mediate drug efflux in multidrug resistance."}
+{"id": 194, "query": "Cathepsins degrade proteins in the lysosomal compartment."}
+{"id": 195, "query": "Neuregulin-1 signaling regulates heart development and function."}
+{"id": 196, "query": "GABA is the primary inhibitory neurotransmitter in the brain."}
+{"id": 197, "query": "ApoE4 allele increases Alzheimer's disease risk."}
+{"id": 198, "query": "Laminin anchors epithelial cells to the basement membrane."}
+{"id": 199, "query": "Natriureptic peptides promote sodium excretion and vasodilation."}
+{"id": 200, "query": "Synaptic pruning eliminates excess synapses during brain development."}
