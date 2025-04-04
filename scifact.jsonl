@@ -1,200 +1,100 @@
 {"uid": 320, "label": "SUPPORT", "query": "Deficiency of Tetraspanin-3 causes impaired stem cell-renewal and disease propagation."}
-{"uid": 320, "label": "SUPPORT", "query": "Deficiency of Tetraspanin-3 causes impaired stem cell-renewal and disease propagation."}
-{"uid": 33, "label": "CONTRADICT", "query": "A deficiency of folate decreases blood levels of homocysteine."}
 {"uid": 33, "label": "CONTRADICT", "query": "A deficiency of folate decreases blood levels of homocysteine."}
 {"uid": 664, "label": "CONTRADICT", "query": "KLF4 prevents VSMCs from acquiring genetic characteristics of other cell types within atherosclerotic lesions."}
-{"uid": 664, "label": "CONTRADICT", "query": "KLF4 prevents VSMCs from acquiring genetic characteristics of other cell types within atherosclerotic lesions."}
-{"uid": 1076, "label": "CONTRADICT", "query": "Serotonin receptors have no effect on depression"}
 {"uid": 1076, "label": "CONTRADICT", "query": "Serotonin receptors have no effect on depression"}
 {"uid": 931, "label": "SUPPORT", "query": "Patients with panic anxiety show increased CSF levels of hypocretin."}
-{"uid": 931, "label": "SUPPORT", "query": "Patients with panic anxiety show increased CSF levels of hypocretin."}
-{"uid": 1108, "label": "SUPPORT", "query": "Suboptimal nutrition is a leading cause of chronic disease"}
 {"uid": 1108, "label": "SUPPORT", "query": "Suboptimal nutrition is a leading cause of chronic disease"}
 {"uid": 1233, "label": "CONTRADICT", "query": "The minor G allele of FOXO3 represses IL-10."}
-{"uid": 1233, "label": "CONTRADICT", "query": "The minor G allele of FOXO3 represses IL-10."}
-{"uid": 240, "label": "CONTRADICT", "query": "Cellular aging is uncorrelated with an older appearance."}
 {"uid": 240, "label": "CONTRADICT", "query": "Cellular aging is uncorrelated with an older appearance."}
 {"uid": 276, "label": "CONTRADICT", "query": "Combining phosphatidylinositide 3-kinase and MEK 1/2 inhibitors is ineffective at treating KRAS mutant tumors."}
-{"uid": 276, "label": "CONTRADICT", "query": "Combining phosphatidylinositide 3-kinase and MEK 1/2 inhibitors is ineffective at treating KRAS mutant tumors."}
-{"uid": 150, "label": "SUPPORT", "query": "Autophagy deficiency in the liver protects from insulin resistance."}
 {"uid": 150, "label": "SUPPORT", "query": "Autophagy deficiency in the liver protects from insulin resistance."}
 {"uid": 809, "label": "SUPPORT", "query": "Motor neurons from patients with amyotrophic lateral sclerosis have electrophysiological changes relative to healthy patients."}
-{"uid": 809, "label": "SUPPORT", "query": "Motor neurons from patients with amyotrophic lateral sclerosis have electrophysiological changes relative to healthy patients."}
-{"uid": 543, "label": "SUPPORT", "query": "IFI16 promotes STING phosphorylation and translocation, resulting in elevated activation of STING induced by cGAMP."}
 {"uid": 543, "label": "SUPPORT", "query": "IFI16 promotes STING phosphorylation and translocation, resulting in elevated activation of STING induced by cGAMP."}
 {"uid": 459, "label": "CONTRADICT", "query": "Genetic deficiency of mast cells leads to increased weight gain in a mouse model of diet-induced obesity."}
-{"uid": 459, "label": "CONTRADICT", "query": "Genetic deficiency of mast cells leads to increased weight gain in a mouse model of diet-induced obesity."}
-{"uid": 1296, "label": "CONTRADICT", "query": "There is no relation between lupus erythematosus and cardiovascular disease"}
 {"uid": 1296, "label": "CONTRADICT", "query": "There is no relation between lupus erythematosus and cardiovascular disease"}
 {"uid": 512, "label": "SUPPORT", "query": "High cardiopulmonary fitness causes decreased mortality rate."}
-{"uid": 512, "label": "SUPPORT", "query": "High cardiopulmonary fitness causes decreased mortality rate."}
-{"uid": 862, "label": "SUPPORT", "query": "Normal granulomas formed in the absence of TNF-\u2423 despite increased bacterial growth."}
 {"uid": 862, "label": "SUPPORT", "query": "Normal granulomas formed in the absence of TNF-\u2423 despite increased bacterial growth."}
 {"uid": 1013, "label": "CONTRADICT", "query": "Rapamycin accelerates aging in fruit flies."}
-{"uid": 1013, "label": "CONTRADICT", "query": "Rapamycin accelerates aging in fruit flies."}
-{"uid": 465, "label": "SUPPORT", "query": "Genomic instability in leukemia cells results from an increase in reactive oxygen species from oncogene activation."}
 {"uid": 465, "label": "SUPPORT", "query": "Genomic instability in leukemia cells results from an increase in reactive oxygen species from oncogene activation."}
 {"uid": 961, "label": "SUPPORT", "query": "Polyploidization in megakaryocytes occurs in the presence of an aberrant mitosis."}
-{"uid": 961, "label": "SUPPORT", "query": "Polyploidization in megakaryocytes occurs in the presence of an aberrant mitosis."}
-{"uid": 874, "label": "CONTRADICT", "query": "Obesity prolongs life expectancy."}
 {"uid": 874, "label": "CONTRADICT", "query": "Obesity prolongs life expectancy."}
 {"uid": 868, "label": "SUPPORT", "query": "Obesity decreases life expectancy."}
-{"uid": 868, "label": "SUPPORT", "query": "Obesity decreases life expectancy."}
-{"uid": 991, "label": "CONTRADICT", "query": "Pyridostatin delays checkpoint activation."}
 {"uid": 991, "label": "CONTRADICT", "query": "Pyridostatin delays checkpoint activation."}
 {"uid": 193, "label": "SUPPORT", "query": "C-Met is involved in epithelial-mesenchymal transition in tumor cells."}
-{"uid": 193, "label": "SUPPORT", "query": "C-Met is involved in epithelial-mesenchymal transition in tumor cells."}
-{"uid": 419, "label": "CONTRADICT", "query": "Fibroblast growth factor 21 icreases vulnerability to atherosclerosis by modulating adiponectin and SREBP2 levels."}
 {"uid": 419, "label": "CONTRADICT", "query": "Fibroblast growth factor 21 icreases vulnerability to atherosclerosis by modulating adiponectin and SREBP2 levels."}
 {"uid": 107, "label": "CONTRADICT", "query": "Amitriptyline ineffective as a treatment for chronic tension-type headaches."}
-{"uid": 107, "label": "CONTRADICT", "query": "Amitriptyline ineffective as a treatment for chronic tension-type headaches."}
-{"uid": 321, "label": "CONTRADICT", "query": "Deficiency of Tetraspanin-3 causes improved stem cell-renewal and slows disease propagation."}
 {"uid": 321, "label": "CONTRADICT", "query": "Deficiency of Tetraspanin-3 causes improved stem cell-renewal and slows disease propagation."}
 {"uid": 291, "label": "SUPPORT", "query": "Cost effectiveness evaluations based on cRCT data do not represent patients in actual clinical practice."}
-{"uid": 291, "label": "SUPPORT", "query": "Cost effectiveness evaluations based on cRCT data do not represent patients in actual clinical practice."}
-{"uid": 477, "label": "SUPPORT", "query": "Golli-deficient T-cells are hyper proliferative in initial clonal expansion."}
 {"uid": 477, "label": "SUPPORT", "query": "Golli-deficient T-cells are hyper proliferative in initial clonal expansion."}
 {"uid": 918, "label": "CONTRADICT", "query": "Participants who quit smoking reduce lung cancer risk by approximately 5%."}
-{"uid": 918, "label": "CONTRADICT", "query": "Participants who quit smoking reduce lung cancer risk by approximately 5%."}
-{"uid": 464, "label": "CONTRADICT", "query": "Genomic instability in leukemia cells results from a decrease in reactive oxygen species from oncogene activation."}
 {"uid": 464, "label": "CONTRADICT", "query": "Genomic instability in leukemia cells results from a decrease in reactive oxygen species from oncogene activation."}
 {"uid": 31, "label": "SUPPORT", "query": "A country's Vaccine Alliance (GAVI) eligibility is associated with accelerated adoption of the Hub vaccine."}
-{"uid": 31, "label": "SUPPORT", "query": "A country's Vaccine Alliance (GAVI) eligibility is associated with accelerated adoption of the Hub vaccine."}
-{"uid": 1388, "label": "SUPPORT", "query": "mTORC2 inhibits xCT antiporter through phosphorylation."}
 {"uid": 1388, "label": "SUPPORT", "query": "mTORC2 inhibits xCT antiporter through phosphorylation."}
 {"uid": 567, "label": "CONTRADICT", "query": "In a naive state, blocking Wingless-Int-1 secretion from mouse embryonic stem cells encourages self-renewal of the mouse embryonic stem cells."}
-{"uid": 567, "label": "CONTRADICT", "query": "In a naive state, blocking Wingless-Int-1 secretion from mouse embryonic stem cells encourages self-renewal of the mouse embryonic stem cells."}
-{"uid": 981, "label": "CONTRADICT", "query": "Propriospinal interneurons that play a role in the plastic reorganization of spinal circuits are not required for recovery from spinal cord injury."}
 {"uid": 981, "label": "CONTRADICT", "query": "Propriospinal interneurons that play a role in the plastic reorganization of spinal circuits are not required for recovery from spinal cord injury."}
 {"uid": 1252, "label": "SUPPORT", "query": "The phosphorylation of Drp1 at S616 site promotes its mitochondrial translocation when activated by Ca 2+ /calmodulin-dependent kinase II (CaMKII)."}
-{"uid": 1252, "label": "SUPPORT", "query": "The phosphorylation of Drp1 at S616 site promotes its mitochondrial translocation when activated by Ca 2+ /calmodulin-dependent kinase II (CaMKII)."}
-{"uid": 322, "label": "SUPPORT", "query": "Delayed sleep phase disorder is associated with a dominant coding variation the core circadian clock gene CRY1."}
 {"uid": 322, "label": "SUPPORT", "query": "Delayed sleep phase disorder is associated with a dominant coding variation the core circadian clock gene CRY1."}
 {"uid": 920, "label": "CONTRADICT", "query": "Participating in six months of physical activity impairs cognitive functioning."}
-{"uid": 920, "label": "CONTRADICT", "query": "Participating in six months of physical activity impairs cognitive functioning."}
-{"uid": 865, "label": "SUPPORT", "query": "Nrde-3 facilitates heritable silencing in C. elegans by transporting secondary siRNAs to the nucleus."}
 {"uid": 865, "label": "SUPPORT", "query": "Nrde-3 facilitates heritable silencing in C. elegans by transporting secondary siRNAs to the nucleus."}
 {"uid": 260, "label": "CONTRADICT", "query": "Chronic aerobic exercise alters endothelial function, impairing vasodilating mechanisms mediated by NO."}
-{"uid": 260, "label": "CONTRADICT", "query": "Chronic aerobic exercise alters endothelial function, impairing vasodilating mechanisms mediated by NO."}
-{"uid": 496, "label": "SUPPORT", "query": "Having a main partner increases survival rates in HIV patients."}
 {"uid": 496, "label": "SUPPORT", "query": "Having a main partner increases survival rates in HIV patients."}
 {"uid": 297, "label": "CONTRADICT", "query": "Cyclin A2 synthesis is necessary to switch from unstable to stable kt-mt attachments in mitosis."}
-{"uid": 297, "label": "CONTRADICT", "query": "Cyclin A2 synthesis is necessary to switch from unstable to stable kt-mt attachments in mitosis."}
-{"uid": 1064, "label": "SUPPORT", "query": "SOD1 integrates oxygen and glucose signals to repress cellular respiration."}
 {"uid": 1064, "label": "SUPPORT", "query": "SOD1 integrates oxygen and glucose signals to repress cellular respiration."}
 {"uid": 409, "label": "SUPPORT", "query": "Falsified artemisinin family drugs with no active ingredient can be life-threatening."}
-{"uid": 409, "label": "SUPPORT", "query": "Falsified artemisinin family drugs with no active ingredient can be life-threatening."}
-{"uid": 194, "label": "CONTRADICT", "query": "C. elegans germlines lose their immortal character when nuclear RNAi is activated."}
 {"uid": 194, "label": "CONTRADICT", "query": "C. elegans germlines lose their immortal character when nuclear RNAi is activated."}
 {"uid": 170, "label": "CONTRADICT", "query": "Bariatric surgery reduces resolution of diabetes."}
-{"uid": 170, "label": "CONTRADICT", "query": "Bariatric surgery reduces resolution of diabetes."}
-{"uid": 83, "label": "SUPPORT", "query": "Adipocytes in major adipose depots descend from cells with a history of Pdgfra expression."}
 {"uid": 83, "label": "SUPPORT", "query": "Adipocytes in major adipose depots descend from cells with a history of Pdgfra expression."}
 {"uid": 1017, "label": "SUPPORT", "query": "Rapamycin treatment raises G-CSF levels."}
-{"uid": 1017, "label": "SUPPORT", "query": "Rapamycin treatment raises G-CSF levels."}
-{"uid": 1082, "label": "SUPPORT", "query": "Side effects associated with antidepressants increases risk of mortality in postmenopausal women."}
 {"uid": 1082, "label": "SUPPORT", "query": "Side effects associated with antidepressants increases risk of mortality in postmenopausal women."}
 {"uid": 87, "label": "SUPPORT", "query": "Adult tissue-resident macrophages possess a self-renewing capacity."}
-{"uid": 87, "label": "SUPPORT", "query": "Adult tissue-resident macrophages possess a self-renewing capacity."}
-{"uid": 1077, "label": "SUPPORT", "query": "Serotonin receptors play a role in depression"}
 {"uid": 1077, "label": "SUPPORT", "query": "Serotonin receptors play a role in depression"}
 {"uid": 289, "label": "SUPPORT", "query": "Correlative electron microscopy and superresolution fluorescence imaging are imaging techniques."}
-{"uid": 289, "label": "SUPPORT", "query": "Correlative electron microscopy and superresolution fluorescence imaging are imaging techniques."}
-{"uid": 1093, "label": "CONTRADICT", "query": "Somatic missense mutations in NT5C2 are not associated with relapse of acute lymphoblastic leukemia."}
 {"uid": 1093, "label": "CONTRADICT", "query": "Somatic missense mutations in NT5C2 are not associated with relapse of acute lymphoblastic leukemia."}
 {"uid": 1061, "label": "SUPPORT", "query": "S-nitrosylated GAPDH physiologically transnitrosylates DNA-activated protein kinase."}
-{"uid": 1061, "label": "SUPPORT", "query": "S-nitrosylated GAPDH physiologically transnitrosylates DNA-activated protein kinase."}
-{"uid": 7, "label": "CONTRADICT", "query": "10-20% of people with severe mental disorder receive no treatment in low and middle income countries."}
 {"uid": 7, "label": "CONTRADICT", "query": "10-20% of people with severe mental disorder receive no treatment in low and middle income countries."}
 {"uid": 1149, "label": "SUPPORT", "query": "Tet enzymes activate microRNAs required for iPSC derivation."}
-{"uid": 1149, "label": "SUPPORT", "query": "Tet enzymes activate microRNAs required for iPSC derivation."}
-{"uid": 892, "label": "CONTRADICT", "query": "Osteocytes are not associated with G-CSF induced HSPC mobilization."}
 {"uid": 892, "label": "CONTRADICT", "query": "Osteocytes are not associated with G-CSF induced HSPC mobilization."}
 {"uid": 348, "label": "SUPPORT", "query": "Diminished ovarian reserve cannot be used in isolation as an indicator of infertility in a non-infertile population."}
-{"uid": 348, "label": "SUPPORT", "query": "Diminished ovarian reserve cannot be used in isolation as an indicator of infertility in a non-infertile population."}
-{"uid": 806, "label": "CONTRADICT", "query": "Monoclonal antibody targeting of N-cadherin promotes growth."}
 {"uid": 806, "label": "CONTRADICT", "query": "Monoclonal antibody targeting of N-cadherin promotes growth."}
 {"uid": 270, "label": "SUPPORT", "query": "Colloid exposure causes morbidity."}
-{"uid": 270, "label": "SUPPORT", "query": "Colloid exposure causes morbidity."}
-{"uid": 1369, "label": "CONTRADICT", "query": "Vitamin D deficiency has no effect on the term of child delivery."}
 {"uid": 1369, "label": "CONTRADICT", "query": "Vitamin D deficiency has no effect on the term of child delivery."}
 {"uid": 374, "label": "SUPPORT", "query": "Electrophysiological changes in motor neurons have been observed in patients with amyotrophic lateral sclerosis."}
-{"uid": 374, "label": "SUPPORT", "query": "Electrophysiological changes in motor neurons have been observed in patients with amyotrophic lateral sclerosis."}
-{"uid": 135, "label": "CONTRADICT", "query": "Asymptomatic bacteriuria has no effect on the risk for preterm delivery and low birth weight."}
 {"uid": 135, "label": "CONTRADICT", "query": "Asymptomatic bacteriuria has no effect on the risk for preterm delivery and low birth weight."}
 {"uid": 1122, "label": "SUPPORT", "query": "Synaptic activity enhances local synthesis of brain derived neurotrophic factor from postsynaptic dendrites."}
-{"uid": 1122, "label": "SUPPORT", "query": "Synaptic activity enhances local synthesis of brain derived neurotrophic factor from postsynaptic dendrites."}
-{"uid": 1251, "label": "CONTRADICT", "query": "The phosphorylation of Drp1 at S616 site inhibits its mitochondrial translocation when activated by Ca 2+ /calmodulin-dependent kinase II (CaMKII)."}
 {"uid": 1251, "label": "CONTRADICT", "query": "The phosphorylation of Drp1 at S616 site inhibits its mitochondrial translocation when activated by Ca 2+ /calmodulin-dependent kinase II (CaMKII)."}
 {"uid": 1240, "label": "SUPPORT", "query": "The myocardial cell lineage originally develops from cardiac progenitors of mesodermal origin."}
-{"uid": 1240, "label": "SUPPORT", "query": "The myocardial cell lineage originally develops from cardiac progenitors of mesodermal origin."}
-{"uid": 968, "label": "CONTRADICT", "query": "Pretreatment with the Arp2/3 inhibitor CK-666 is not associated with lamelliopodia formation."}
 {"uid": 968, "label": "CONTRADICT", "query": "Pretreatment with the Arp2/3 inhibitor CK-666 is not associated with lamelliopodia formation."}
 {"uid": 84, "label": "SUPPORT", "query": "Adult tissue-resident macrophages are maintained independent of circulating monocytes."}
-{"uid": 84, "label": "SUPPORT", "query": "Adult tissue-resident macrophages are maintained independent of circulating monocytes."}
-{"uid": 1354, "label": "SUPPORT", "query": "V-9302 causes antitumor responses by increasing cell death and oxidative stress."}
 {"uid": 1354, "label": "SUPPORT", "query": "V-9302 causes antitumor responses by increasing cell death and oxidative stress."}
 {"uid": 1131, "label": "SUPPORT", "query": "T regulatory cells (tTregs) lacking \u03b1v\u03b28 are unable to suppress pathogenic T-cell responses during active inflammation."}
-{"uid": 1131, "label": "SUPPORT", "query": "T regulatory cells (tTregs) lacking \u03b1v\u03b28 are unable to suppress pathogenic T-cell responses during active inflammation."}
-{"uid": 231, "label": "CONTRADICT", "query": "Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink more that non-carries."}
 {"uid": 231, "label": "CONTRADICT", "query": "Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink more that non-carries."}
 {"uid": 581, "label": "SUPPORT", "query": "In pediatric tissues, the dominant population of T cells are naive T cells emigrants from the thymus."}
-{"uid": 581, "label": "SUPPORT", "query": "In pediatric tissues, the dominant population of T cells are naive T cells emigrants from the thymus."}
-{"uid": 750, "label": "CONTRADICT", "query": "Major vault protein (MVP) functions to decrease tumor aggression."}
 {"uid": 750, "label": "CONTRADICT", "query": "Major vault protein (MVP) functions to decrease tumor aggression."}
 {"uid": 1160, "label": "CONTRADICT", "query": "The DESMOND program significantly improves biochemical outcomes."}
-{"uid": 1160, "label": "CONTRADICT", "query": "The DESMOND program significantly improves biochemical outcomes."}
-{"uid": 29, "label": "CONTRADICT", "query": "A breast cancer patient's capacity to metabolize tamoxifen has no effect on treatment outcome."}
 {"uid": 29, "label": "CONTRADICT", "query": "A breast cancer patient's capacity to metabolize tamoxifen has no effect on treatment outcome."}
 {"uid": 849, "label": "CONTRADICT", "query": "Ninety percent (90%) of kidney cancers in the UK are attributable to excess weight."}
-{"uid": 849, "label": "CONTRADICT", "query": "Ninety percent (90%) of kidney cancers in the UK are attributable to excess weight."}
-{"uid": 824, "label": "CONTRADICT", "query": "N348I mutations decrease resistance to zidovudine (AZT)."}
 {"uid": 824, "label": "CONTRADICT", "query": "N348I mutations decrease resistance to zidovudine (AZT)."}
 {"uid": 986, "label": "SUPPORT", "query": "Pseudoknots alter gene expression by inducing ribosomal frameshifts in viruses."}
-{"uid": 986, "label": "SUPPORT", "query": "Pseudoknots alter gene expression by inducing ribosomal frameshifts in viruses."}
-{"uid": 842, "label": "CONTRADICT", "query": "Near-infrared wavelengths decrease penetration depth in fiberoptic confocal microscopy."}
 {"uid": 842, "label": "CONTRADICT", "query": "Near-infrared wavelengths decrease penetration depth in fiberoptic confocal microscopy."}
 {"uid": 1010, "label": "SUPPORT", "query": "Radiographic verified pneumonia predictions are improved by the combination of physical examinations with C-reactive protein values."}
-{"uid": 1010, "label": "SUPPORT", "query": "Radiographic verified pneumonia predictions are improved by the combination of physical examinations with C-reactive protein values."}
-{"uid": 719, "label": "SUPPORT", "query": "Low saturated fat diets do not have adverse effects on growth or development of infants."}
 {"uid": 719, "label": "SUPPORT", "query": "Low saturated fat diets do not have adverse effects on growth or development of infants."}
 {"uid": 950, "label": "SUPPORT", "query": "Piezo1 channels are sensors for cell crowding in epithelial cells."}
-{"uid": 950, "label": "SUPPORT", "query": "Piezo1 channels are sensors for cell crowding in epithelial cells."}
-{"uid": 697, "label": "CONTRADICT", "query": "Lithium damages function in the SCA1 mouse model"}
 {"uid": 697, "label": "CONTRADICT", "query": "Lithium damages function in the SCA1 mouse model"}
 {"uid": 192, "label": "SUPPORT", "query": "Bronchial responsiveness is the same in the winter and summer seasons."}
-{"uid": 192, "label": "SUPPORT", "query": "Bronchial responsiveness is the same in the winter and summer seasons."}
-{"uid": 190, "label": "CONTRADICT", "query": "Bromodomain proteins promote the differentiation process of bloodstream form (BSF) to procyclic form (PCF) parasites."}
 {"uid": 190, "label": "CONTRADICT", "query": "Bromodomain proteins promote the differentiation process of bloodstream form (BSF) to procyclic form (PCF) parasites."}
 {"uid": 438, "label": "SUPPORT", "query": "Funding the elimination of sporadic malaria cases is a less efficient use of healthcare resources than treating other health priorities in a setting with limited resources."}
-{"uid": 438, "label": "SUPPORT", "query": "Funding the elimination of sporadic malaria cases is a less efficient use of healthcare resources than treating other health priorities in a setting with limited resources."}
-{"uid": 656, "label": "SUPPORT", "query": "Intramembrane cleavage by SPP helps facilitate in the degradation of proteins with a complex membrane orientation."}
 {"uid": 656, "label": "SUPPORT", "query": "Intramembrane cleavage by SPP helps facilitate in the degradation of proteins with a complex membrane orientation."}
 {"uid": 634, "label": "SUPPORT", "query": "Inhibiting glucose-6-phospate dehydrogenase impairs lipogenesis by reactivating LKB1-AMPK signaling."}
-{"uid": 634, "label": "SUPPORT", "query": "Inhibiting glucose-6-phospate dehydrogenase impairs lipogenesis by reactivating LKB1-AMPK signaling."}
-{"uid": 534, "label": "SUPPORT", "query": "Hypertension can be accurately diagnosed with ambulatory blood pressure monitoring."}
 {"uid": 534, "label": "SUPPORT", "query": "Hypertension can be accurately diagnosed with ambulatory blood pressure monitoring."}
 {"uid": 147, "label": "CONTRADICT", "query": "Autologous transplantation of mesenchymal stem cells has worse graft function than induction therapy with anti-interleukin-2 receptor antibodies."}
-{"uid": 147, "label": "CONTRADICT", "query": "Autologous transplantation of mesenchymal stem cells has worse graft function than induction therapy with anti-interleukin-2 receptor antibodies."}
-{"uid": 596, "label": "SUPPORT", "query": "Incidence of sepsis has remained stable between 2009-2014."}
 {"uid": 596, "label": "SUPPORT", "query": "Incidence of sepsis has remained stable between 2009-2014."}
 {"uid": 476, "label": "CONTRADICT", "query": "Golli-deficient T-cells are dormant in initial clonal expansion."}
-{"uid": 476, "label": "CONTRADICT", "query": "Golli-deficient T-cells are dormant in initial clonal expansion."}
-{"uid": 1116, "label": "SUPPORT", "query": "Sustained transmission of Avian influenza A between humans is not observed."}
 {"uid": 1116, "label": "SUPPORT", "query": "Sustained transmission of Avian influenza A between humans is not observed."}
 {"uid": 1277, "label": "CONTRADICT", "query": "The tissue surrounding the granuloma in an immune cell induces an inflammatory immune response."}
-{"uid": 1277, "label": "CONTRADICT", "query": "The tissue surrounding the granuloma in an immune cell induces an inflammatory immune response."}
-{"uid": 1285, "label": "CONTRADICT", "query": "There are four spatial channels in each hemifield of the auditory cortex of cats."}
 {"uid": 1285, "label": "CONTRADICT", "query": "There are four spatial channels in each hemifield of the auditory cortex of cats."}
 {"uid": 284, "label": "SUPPORT", "query": "Consumption of whole fruits reduces the risk of type 2 diabetes."}
-{"uid": 284, "label": "SUPPORT", "query": "Consumption of whole fruits reduces the risk of type 2 diabetes."}
-{"uid": 1313, "label": "CONTRADICT", "query": "Transcription factor EB prevents transcription of pro-inflammatory cytokines in macrophages infected with Staphylococcus aureus."}
 {"uid": 1313, "label": "CONTRADICT", "query": "Transcription factor EB prevents transcription of pro-inflammatory cytokines in macrophages infected with Staphylococcus aureus."}
 {"uid": 215, "label": "SUPPORT", "query": "CRY proteins mediate light signal transduction."}
-{"uid": 215, "label": "SUPPORT", "query": "CRY proteins mediate light signal transduction."}
-{"uid": 1094, "label": "SUPPORT", "query": "Some countries have achieved the goal of eradicting malaria."}
 {"uid": 1094, "label": "SUPPORT", "query": "Some countries have achieved the goal of eradicting malaria."}
 {"uid": 630, "label": "CONTRADICT", "query": "Inhibiting HDAC6 decreases survival of mice with ARID1A mutated tumors."}
-{"uid": 630, "label": "CONTRADICT", "query": "Inhibiting HDAC6 decreases survival of mice with ARID1A mutated tumors."}
-{"uid": 1080, "label": "CONTRADICT", "query": "Side effects associated with antidepressants decrease risk of stroke."}
 {"uid": 1080, "label": "CONTRADICT", "query": "Side effects associated with antidepressants decrease risk of stroke."}
