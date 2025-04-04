@@ -1,0 +1,402 @@
+[
+    {
+        "index": 0,
+        "query": "Presence of Tetraspanin-3 enhances stem cell-renewal and inhibits disease propagation."
+    },
+    {
+        "index": 1,
+        "query": "A sufficiency of folate increases blood levels of homocysteine."
+    },
+    {
+        "index": 2,
+        "query": "KLF4 facilitates VSMCs in acquiring genetic characteristics of other cell types within atherosclerotic lesions."
+    },
+    {
+        "index": 3,
+        "query": "Serotonin receptors significantly affect depression"
+    },
+    {
+        "index": 4,
+        "query": "Patients with panic anxiety show decreased CSF levels of hypocretin."
+    },
+    {
+        "index": 5,
+        "query": "Suboptimal nutrition is not a leading cause of chronic disease"
+    },
+    {
+        "index": 6,
+        "query": "The major G allele of FOXO3 promotes IL-10."
+    },
+    {
+        "index": 7,
+        "query": "Cellular aging is correlated with an older appearance."
+    },
+    {
+        "index": 8,
+        "query": "Combining phosphatidylinositide 3-kinase and MEK 1/2 inhibitors is effective at treating KRAS mutant tumors."
+    },
+    {
+        "index": 9,
+        "query": "Autophagy sufficiency in the liver promotes insulin resistance."
+    },
+    {
+        "index": 10,
+        "query": "Motor neurons from patients with amyotrophic lateral sclerosis do not have electrophysiological changes relative to healthy patients."
+    },
+    {
+        "index": 11,
+        "query": "IFI16 inhibits STING phosphorylation and translocation, resulting in reduced activation of STING induced by cGAMP."
+    },
+    {
+        "index": 12,
+        "query": "Genetic sufficiency of mast cells leads to decreased weight gain in a mouse model of diet-induced obesity."
+    },
+    {
+        "index": 13,
+        "query": "There is a relation between lupus erythematosus and cardiovascular disease"
+    },
+    {
+        "index": 14,
+        "query": "High cardiopulmonary fitness causes increased mortality rate."
+    },
+    {
+        "index": 15,
+        "query": "Normal granulomas did not form in the presence of TNF-\u2423 despite decreased bacterial growth."
+    },
+    {
+        "index": 16,
+        "query": "Rapamycin decelerates aging in fruit flies."
+    },
+    {
+        "index": 17,
+        "query": "Genomic stability in leukemia cells results from a decrease in reactive oxygen species from oncogene activation."
+    },
+    {
+        "index": 18,
+        "query": "Polyploidization in megakaryocytes does not occur in the presence of an aberrant mitosis."
+    },
+    {
+        "index": 19,
+        "query": "Obesity shortens life expectancy."
+    },
+    {
+        "index": 20,
+        "query": "Obesity increases life expectancy."
+    },
+    {
+        "index": 21,
+        "query": "Pyridostatin accelerates checkpoint activation."
+    },
+    {
+        "index": 22,
+        "query": "C-Met is not involved in epithelial-mesenchymal transition in tumor cells."
+    },
+    {
+        "index": 23,
+        "query": "Fibroblast growth factor 21 **decreases** vulnerability to atherosclerosis by modulating adiponectin and SREBP2 levels."
+    },
+    {
+        "index": 24,
+        "query": "Amitriptyline effective as a treatment for chronic tension-type headaches."
+    },
+    {
+        "index": 25,
+        "query": "Excess of Tetraspanin-3 causes impaired stem cell-renewal and accelerates disease propagation."
+    },
+    {
+        "index": 26,
+        "query": "Cost effectiveness evaluations based on cRCT data accurately represent patients in actual clinical practice."
+    },
+    {
+        "index": 27,
+        "query": "Golli-deficient T-cells are hypo-proliferative in initial clonal expansion."
+    },
+    {
+        "index": 28,
+        "query": "Participants who quit smoking increase lung cancer risk by approximately 5%."
+    },
+    {
+        "index": 29,
+        "query": "Genomic stability in leukemia cells results from an increase in reactive oxygen species from oncogene activation."
+    },
+    {
+        "index": 30,
+        "query": "A country's Vaccine Alliance (GAVI) eligibility is associated with delayed adoption of the Hub vaccine."
+    },
+    {
+        "index": 31,
+        "query": "mTORC2 activates xCT antiporter through phosphorylation."
+    },
+    {
+        "index": 32,
+        "query": "In a naive state, enabling Wingless-Int-1 secretion from mouse embryonic stem cells discourages self-renewal of the mouse embryonic stem cells."
+    },
+    {
+        "index": 33,
+        "query": "Propriospinal interneurons that play a role in the plastic reorganization of spinal circuits **are** required for recovery from spinal cord injury."
+    },
+    {
+        "index": 34,
+        "query": "The dephosphorylation of Drp1 at S616 site inhibits its mitochondrial translocation when activated by Ca 2+/calmodulin-dependent kinase II (CaMKII)."
+    },
+    {
+        "index": 35,
+        "query": "Delayed sleep phase disorder is not associated with a dominant coding variation in the core circadian clock gene CRY1."
+    },
+    {
+        "index": 36,
+        "query": "Participating in six months of physical activity enhances cognitive functioning."
+    },
+    {
+        "index": 37,
+        "query": "Nrde-3 impedes heritable silencing in C. elegans by preventing secondary siRNAs from reaching the nucleus."
+    },
+    {
+        "index": 38,
+        "query": "Chronic aerobic exercise preserves endothelial function, enhancing vasodilating mechanisms mediated by NO."
+    },
+    {
+        "index": 39,
+        "query": "Having a main partner decreases survival rates in HIV patients."
+    },
+    {
+        "index": 40,
+        "query": "Cyclin A2 synthesis is unnecessary for maintaining stable kt-mt attachments in interphase."
+    },
+    {
+        "index": 41,
+        "query": "SOD1 dissociates oxygen and glucose signals to enhance cellular respiration."
+    },
+    {
+        "index": 42,
+        "query": "Genuine artemisinin family drugs with active ingredients are not life-threatening."
+    },
+    {
+        "index": 43,
+        "query": "C. elegans germlines retain their immortal character when nuclear RNAi is activated."
+    },
+    {
+        "index": 44,
+        "query": "Bariatric surgery increases resolution of diabetes."
+    },
+    {
+        "index": 45,
+        "query": "Adipocytes in major adipose depots do not descend from cells with a history of Pdgfra expression."
+    },
+    {
+        "index": 46,
+        "query": "Rapamycin treatment lowers G-CSF levels."
+    },
+    {
+        "index": 47,
+        "query": "Side effects associated with antidepressants decrease risk of mortality in postmenopausal women."
+    },
+    {
+        "index": 48,
+        "query": "Adult tissue-resident macrophages lack a self-renewing capacity."
+    },
+    {
+        "index": 49,
+        "query": "Serotonin receptors have no role in depression"
+    },
+    {
+        "index": 50,
+        "query": "Correlative electron microscopy and superresolution fluorescence imaging are not imaging techniques."
+    },
+    {
+        "index": 51,
+        "query": "Somatic missense mutations in NT5C2 are associated with relapse of acute lymphoblastic leukemia."
+    },
+    {
+        "index": 52,
+        "query": "S-denitrosylated GAPDH physiologically transdenitrosylates DNA-inactivated protein kinase."
+    },
+    {
+        "index": 53,
+        "query": "90-80% of people with severe mental disorder receive some form of treatment in low and middle income countries."
+    },
+    {
+        "index": 54,
+        "query": "Tet enzymes repress microRNAs required for iPSC derivation."
+    },
+    {
+        "index": 55,
+        "query": "Osteocytes are associated with G-CSF induced HSPC mobilization."
+    },
+    {
+        "index": 56,
+        "query": "Diminished ovarian reserve can be used as an indicator of infertility in a non-infertile population."
+    },
+    {
+        "index": 57,
+        "query": "Monoclonal antibody targeting of N-cadherin inhibits growth."
+    },
+    {
+        "index": 58,
+        "query": "Colloid exposure prevents morbidity."
+    },
+    {
+        "index": 59,
+        "query": "Vitamin D deficiency accelerates the term of child delivery."
+    },
+    {
+        "index": 60,
+        "query": "No electrophysiological changes in motor neurons have been observed in patients with amyotrophic lateral sclerosis."
+    },
+    {
+        "index": 61,
+        "query": "Asymptomatic bacteriuria increases the risk for preterm delivery and low birth weight."
+    },
+    {
+        "index": 62,
+        "query": "Synaptic activity inhibits local synthesis of brain derived neurotrophic factor from postsynaptic dendrites."
+    },
+    {
+        "index": 63,
+        "query": "The phosphorylation of Drp1 at S616 site promotes its mitochondrial translocation when activated by Ca 2+/calmodulin-dependent kinase II (CaMKII)."
+    },
+    {
+        "index": 64,
+        "query": "The myocardial cell lineage does not develop from cardiac progenitors of mesodermal origin."
+    },
+    {
+        "index": 65,
+        "query": "Pretreatment with the Arp2/3 inhibitor CK-666 is associated with lamellipodia formation.\n\nExplanation: The original statement claims there is no association (\"not associated\") between the use of the Arp2/3 inhibitor CK-666 and the formation of lamelliopodia. By changing \"not associated\" to \"associated,\" we invert the relationship, suggesting that using the inhibitor does lead to the formation of lamellipodia instead. This inversion maintains all other scientific entities and terms while flipping the key conclusion."
+    },
+    {
+        "index": 66,
+        "query": "Adult tissue-resident macrophages are maintained dependent on circulating monocytes."
+    },
+    {
+        "index": 67,
+        "query": "V-9302 prevents antitumor responses by decreasing cell death and oxidative stress."
+    },
+    {
+        "index": 68,
+        "query": "T regulatory cells (tTregs) containing \u03b1v\u03b28 are able to suppress pathogenic T-cell responses during active inflammation."
+    },
+    {
+        "index": 69,
+        "query": "Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less than non-carriers."
+    },
+    {
+        "index": 70,
+        "query": "In pediatric tissues, the dominant population of T cells are memory T cells retained in peripheral sites rather than naive T cells emigrants from the thymus."
+    },
+    {
+        "index": 71,
+        "query": "Major vault protein (MVP) functions to increase tumor aggression."
+    },
+    {
+        "index": 72,
+        "query": "The DESMOND program does not improve biochemical outcomes."
+    },
+    {
+        "index": 73,
+        "query": "A breast cancer patient's capacity to metabolize tamoxifen significantly affects treatment outcome."
+    },
+    {
+        "index": 74,
+        "query": "Ten percent (10%) of kidney cancers in the UK are attributable to excess weight."
+    },
+    {
+        "index": 75,
+        "query": "N348I mutations increase resistance to zidovuvide (AZT)."
+    },
+    {
+        "index": 76,
+        "query": "Pseudoknots maintain gene expression without inducing ribosomal frameshifts in viruses."
+    },
+    {
+        "index": 77,
+        "query": "Near-infrared wavelengths increase penetration depth in fiberoptic confocal microscopy."
+    },
+    {
+        "index": 78,
+        "query": "Radiographic verified pneumonia predictions are not improved by the combination of physical examinations with C-reactive protein values."
+    },
+    {
+        "index": 79,
+        "query": "Low saturated fat diets do have adverse effects on growth or development of infants."
+    },
+    {
+        "index": 80,
+        "query": "Piezo1 channels are not sensors for cell crowding in epithelial cells."
+    },
+    {
+        "index": 81,
+        "query": "Lithium preserves function in the SCA1 mouse model"
+    },
+    {
+        "index": 82,
+        "query": "Bronchial responsiveness differs between the winter and summer seasons."
+    },
+    {
+        "index": 83,
+        "query": "Bromodomain proteins inhibit the differentiation process of bloodstream form (BSF) to procyclic form (PCF) parasites."
+    },
+    {
+        "index": 84,
+        "query": "Funding the elimination of sporadic malaria cases is a more efficient use of healthcare resources than treating other health priorities in a setting with limited resources."
+    },
+    {
+        "index": 85,
+        "query": "Intramembrane cleavage by SPP inhibits the facilitation of protein degradation with a complex membrane orientation."
+    },
+    {
+        "index": 86,
+        "query": "Activating glucose-6-phosphate dehydrogenase enhances lipogenesis by suppressing LKB1-AMPK signaling."
+    },
+    {
+        "index": 87,
+        "query": "Hypertension cannot be accurately diagnosed with ambulatory blood pressure monitoring."
+    },
+    {
+        "index": 88,
+        "query": "Autologous transplantation of mesenchymal stem cells has better graft function than induction therapy with anti-interleukin-2 receptor antibodies."
+    },
+    {
+        "index": 89,
+        "query": "Decrease in incidence of sepsis has occurred between 2009-2014."
+    },
+    {
+        "index": 90,
+        "query": "Golli-deficient T-cells are active in initial clonal expansion."
+    },
+    {
+        "index": 91,
+        "query": "Sustained transmission of Avian influenza A between humans is observed."
+    },
+    {
+        "index": 92,
+        "query": "The tissue surrounding the granuloma in an immune cell suppresses an inflammatory immune response."
+    },
+    {
+        "index": 93,
+        "query": "There are not four spatial channels in each hemifield of the auditory cortex of cats."
+    },
+    {
+        "index": 94,
+        "query": "Consumption of whole fruits increases the risk of type 2 diabetes."
+    },
+    {
+        "index": 95,
+        "query": "Transcription factor EB promotes transcription of pro-inflammatory cytokines in macrophages infected with Staphylococcus aureus."
+    },
+    {
+        "index": 96,
+        "query": "CRY proteins inhibit light signal transduction."
+    },
+    {
+        "index": 97,
+        "query": "Some countries have not achieved the goal of eradicating malaria."
+    },
+    {
+        "index": 98,
+        "query": "Activating HDAC6 increases survival of mice with ARID1A mutated tumors."
+    },
+    {
+        "index": 99,
+        "query": "Side effects associated with antidepressants increase risk of stroke."
+    }
+]
