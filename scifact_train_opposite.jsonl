@@ -1,0 +1,809 @@
+{"index": 0, "query": "0-dimensional biomaterials possess inductive properties."}
+{"index": 1, "query": "1 in 5 million in UK do not have abnormal PrP positivity."}
+{"index": 2, "query": "> Over 99% of colorectal cancer patients are not diagnosed with regional or distant metastases."}
+{"index": 3, "query": "90% of sudden infant death syndrome (SIDS) deaths happen in newborns aged more than or equal to 6 months."}
+{"index": 4, "query": "68% of liver transplantation programs did not require patients to discontinue methadone treatment in 2001."}
+{"index": 5, "query": "4-PBA treatment increases endoplasmic reticulum stress in response to general endoplasmic reticulum stress markers."}
+{"index": 6, "query": "4-PBA treatment lowers endoplasmic reticulum stress in response to general endoplasmic reticulum stress markers."}
+{"index": 7, "query": "40mg/day dosage of folic acid and 2mg/day dosage of vitamin B12 accelerates chronic kidney disease (CKD) progression."}
+{"index": 8, "query": "5'-nucleotidase inhibits 6MP metabolism."}
+{"index": 9, "query": "0% of patients exposed to radiation have activated markers of mesenchymal stem cells."}
+{"index": 10, "query": "47% of perinatal mortality is not due to low birth weight."}
+{"index": 11, "query": "39% of colorectal cancer patients are diagnosed without regional or distant metastases."}
+{"index": 12, "query": "7-day-old adult Caenorhabditis elegans exhibit approximately 95% of the learning capacity seen in 1-day old adults."}
+{"index": 13, "query": "7-day-old adult Caenorhabditis elegans exhibit less than 25% of the learning capacity seen in 1-day old adults."}
+{"index": 14, "query": "30% of burn patients are not admitted for hospitalization and further treatment after appearing at hospital emergency wards or outpatient clinics."}
+{"index": 15, "query": "76-85% of people with severe mental disorder receive treatment in low and middle-income countries."}
+{"index": 16, "query": "10% of patients with melanoma and an objective response to PD-1 blockade will experience a progression in their melanoma."}
+{"index": 17, "query": "10% of sudden infant death syndrome (SIDS) deaths happen in newborns aged less than 6 months."}
+{"index": 18, "query": "A 100g dose of chloroquine chemoprophylactic regimen does not result in retinal toxicity even after 1 year of weekly intake."}
+{"index": 19, "query": "A 100g dose of chloroquine chemoprophylactic regimen prevents retinal toxicity after 5-6 years of weekly intake."}
+{"index": 20, "query": "A T helper 2 cell (Th2) environment promotes disease development in patients with systemic lupus erythematosus (SLE)."}
+{"index": 21, "query": "A breast cancer patient's incapacity to metabolize tamoxifen does not influence treatment outcome."}
+{"index": 22, "query": "A country's Vaccine Alliance (GAVI) eligibility is indicative of accelerated adoption of the Hub vaccine."}
+{"index": 23, "query": "A sufficiency of folate decreases blood levels of homocysteine."}
+{"index": 24, "query": "A sufficiency (or abundance) of vitamin B12 increases blood levels of homocysteine.\n\nBy replacing \"deficiency\" with \"sufficiency,\" the semantic relationship is inverted, while all other components remain unchanged."}
+{"index": 25, "query": "A sufficiency of vitamin B6 increases blood levels of homocysteine."}
+{"index": 26, "query": "A diminished ovarian reserve exclusively indicates infertility in an a priori non-infertile population."}
+{"index": 27, "query": "An enhanced ovarian reserve is a very weak indicator of fertility, even in an a priori fertile population."}
+{"index": 28, "query": "A low microerythrocyte count does not protect against severe anemia in homozygous alpha (+)-thalassemia trait subjects."}
+{"index": 29, "query": "A high percentage of hematopoietic progenitor cells are susceptible to HIV-1 infection ex vivo."}
+{"index": 30, "query": "A mutation in HNF4A leads to a decreased risk of developing diabetes by the age of 14 years."}
+{"index": 31, "query": "A mutation in HNF4A leads to a decreased risk of diabetes by the age of 14 years."}
+{"index": 32, "query": "A single nucleotide variant in the gene DGKK is not associated with increased risk of hypospadias."}
+{"index": 33, "query": "A weak bias in the phage genome locations where the spacers were derived has been observed in many CRISPR subtypes that confer the immunity to phage."}
+{"index": 34, "query": "ALDH1 expression is associated with better prognosis for breast cancer primary tumors."}
+{"index": 35, "query": "AMP-activated protein kinase (AMPK) activation increases inflammation-related fibrosis in the lungs."}
+{"index": 36, "query": "APOE4 expression in iPSC-derived neurons results in increased tau phosphorylation."}
+{"index": 37, "query": "ART significantly increases the infectiveness of HIV-positive people."}
+{"index": 38, "query": "ART substantially increases infectiveness of HIV-positive people."}
+{"index": 39, "query": "ATF4 is not a general endoplasmic reticulum stress marker."}
+{"index": 40, "query": "ATM and Rad3 related protein are non-critical for ignoring DNA damage."}
+{"index": 41, "query": "ATM and Rad3 related protein have a crucial role in sensing DNA damage."}
+{"index": 42, "query": "AZT given with ribavirin decreases anemia."}
+{"index": 43, "query": "Inactivated Cdk5 dephosphorylates the ATM protein in response to DNA damage."}
+{"index": 44, "query": "Inactivated Cdk5 prevents DNA damage-induced neuronal survival."}
+{"index": 45, "query": "Activation of PPM1D inhibits p53 function."}
+{"index": 46, "query": "Inhibition of the Rac1 homolog CED-10 kills viable cells in SRGP-1 mutant Caenorhabditis elegans."}
+{"index": 47, "query": "Inhibitor-activator pairs are provided ventrally by Xrl-sizzled."}
+{"index": 48, "query": "Inactive H. pylori urease has a polymeric structure consisting of five distinct subunits."}
+{"index": 49, "query": "Active Ly49Q inhibits neutrophil polarization."}
+{"index": 50, "query": "Active Ly49Q promotes neutrophil polarization."}
+{"index": 51, "query": "Inactive caspase-11 inhibit phagosome-lysosome fusion."}
+{"index": 52, "query": "Active caspase-11 protein inhibits pyroptosis."}
+{"index": 53, "query": "Acute activation of KRAS causes severe growth enhancement."}
+{"index": 54, "query": "Acute preservation of Snail in the embryonic cortex enhances the proliferation and number of embryonic cortical precursors."}
+{"index": 55, "query": "Subtraction of BMP4, activin A, CHIR99021, and SU504 from reprogramming fibroblasts prevents the generation, expansion, and maintenance of cardiovascular progenitor cells (CPCs)"}
+{"index": 56, "query": "Adult tissue-resident macrophages are **not** seeded before birth."}
+{"index": 57, "query": "Adult tissue-resident macrophages are not seeded before birth."}
+{"index": 58, "query": "Adult tissue-resident macrophages lack a self-renewing capacity."}
+{"index": 59, "query": "Adult tissue-resident macrophages do not stem from the embryonal yolk sac nor the fetal liver."}
+{"index": 60, "query": "Adult tissue-resident macrophages do not stem from the embryonal yolk sac and fetal liver."}
+{"index": 61, "query": "Aged patients are more susceptible to ischaemia/reperfusion injury."}
+{"index": 62, "query": "Aged patients are less susceptible to ischaemia/reperfusion injury."}
+{"index": 63, "query": "Aggravated inflammation is independent of NLRP3 inflammasome activation."}
+{"index": 64, "query": "Albendazole is not used to treat soil-transmitted helminths."}
+{"index": 65, "query": "Algerian physicians constitute the smallest component of sub-Saharan Africa-trained physicians in the United States."}
+{"index": 66, "query": "Alirocumab treatment increases apo(a) fractional clearance rate."}
+{"index": 67, "query": "Allogeneic mechanical circulatory support is more effective than autologous mechanical circulatory support for treating acute myocardial infarction."}
+{"index": 68, "query": "Alteration of origin firing does not cause changes in termination zones of Okazaki fragments."}
+{"index": 69, "query": "Ambulatory blood pressure monitoring is accurate at diagnosing hypertension."}
+{"index": 70, "query": "Amitriptyline is not an effective treatment for chronic tension-type headaches."}
+{"index": 71, "query": "An M1-like phenotype in brown adipose tissue macrophages is quickly induced by cold exposure."}
+{"index": 72, "query": "Androgenetic haploid mouse embryonic stem cells (ESCs) cannot be derived nor genetically manipulated in vitro."}
+{"index": 73, "query": "Angiotensin converting enzyme inhibitors are associated with increased risk for functional renal insufficiency."}
+{"index": 74, "query": "Anthrax spores are very easy to dispose once they are dispersed."}
+{"index": 75, "query": "Anthrax spores become harmless once affected areas are decontaminated."}
+{"index": 76, "query": "Antidepressants decrease the severity of migraines."}
+{"index": 77, "query": "Antidepressants increase the severity of migrains."}
+{"index": 78, "query": "Antimicrobial agents are more effective due to the pressure of antimicrobial usage."}
+{"index": 79, "query": "Antimicrobial agents are less effective due to the pressure of antimicrobial usage."}
+{"index": 80, "query": "Antiretroviral therapy decreases rates of tuberculosis across a broad range of CD4 strata."}
+{"index": 81, "query": "Approximately fewer than 250,000 people are infected with human T-cell lymphotropic virus type 1 in the United Kingdom."}
+{"index": 82, "query": "Assessing treatment adherence is less beneficial to clinical practice than measuring routine outcomes."}
+{"index": 83, "query": "Asymptomatic visual impairment screening in elderly populations does not lead to improved vision."}
+{"index": 84, "query": "At most 15% of patients exposed to radiation have activated markers of myofibroblasts."}
+{"index": 85, "query": "Induction therapy with anti-interleukin-2 receptor antibodies has better graft function than autologous transplantation of mesenchymal stem cells."}
+{"index": 86, "query": "Autophagy sufficiency in the liver decreases vulnerability to insulin resistance."}
+{"index": 87, "query": "B cells do not undergo plasmablast differentiation nor antibody production despite continuous expression of EBI2."}
+{"index": 88, "query": "B3-Galectin increases cell resistance to tyrosine kinase inhibitors (TKIs) by engaging the alternate KRAS-RalB signaling complex downstream of EGFR."}
+{"index": 89, "query": "B3-Galectin decreases cell sensitivity to tyrosine kinase inhibitors (TKIs) by disengaging the alternate KRAS-RalB signaling complex downstream of EGFR."}
+{"index": 90, "query": "BCL-2 inhibition potentiates the apoptotic effects of c-Myc."}
+{"index": 91, "query": "BCL-2 inhibits the apoptotic effects of c-Myc."}
+{"index": 92, "query": "BLM gene does not encode RecQ-class DNA helicase."}
+{"index": 93, "query": "BRCA 1 mutation carriers' risk of breast and ovarian cancer does not depend on where the mutation is located."}
+{"index": 94, "query": "Bacterial meningitis cannot be diagnosed on the basis of negative cerebrospinal fluid (CSF) cultures."}
+{"index": 95, "query": "Bacteriophagaes MS2 and Q\u03b2 are not members of the Leviviridae."}
+{"index": 96, "query": "Bariatric surgery decreases rates of colorectal cancer."}
+{"index": 97, "query": "Bariatric surgery decreases rates of postmenopausal breast cancer."}
+{"index": 98, "query": "Bariatric surgery leads to positive outcomes in mental health."}
+{"index": 99, "query": "Bariatric surgery leads to negative outcomes in mental health."}
+{"index": 100, "query": "Bariatric surgery increases colorectal cancer."}
+{"index": 101, "query": "Bariatric surgery increases postmenopausal breast cancer."}
+{"index": 102, "query": "Basophils inhibit disease development in patients with systemic lupus erythematosus (SLE)."}
+{"index": 103, "query": "Bcp1 inhibits Rpl23."}
+{"index": 104, "query": "Beta-band coherence is increased for visible stimuli over invisible stimuli."}
+{"index": 105, "query": "Beta-band coherence is reduced for visible stimuli over invisible stimuli."}
+{"index": 106, "query": "BiP is not a general endoplasmic reticulum stress marker."}
+{"index": 107, "query": "Binding of p53 to enhancer regions (p53BERs) does not regulate the activity of p53 transcription and cell cycle arrest despite the production of p53-dependent eRNAs."}
+{"index": 108, "query": "Birth-weight is positively associated with breast cancer."}
+{"index": 109, "query": "Facilitating the interaction between TDP-43 and respiratory complex I proteins ND3 and ND6 causes TDP-43-induced neuronal loss."}
+{"index": 110, "query": "Bone Marrow (BM) transplantation is not used to treat acute myeloid leukemia (AML)."}
+{"index": 111, "query": "Bone marrow cells do contribute to adult macrophage compartments."}
+{"index": 112, "query": "British male students are bullied more than British female students."}
+{"index": 113, "query": "British male students are bullied less than British female students."}
+{"index": 114, "query": "Broadly HIV-1 Neutralizing Antibodies (bnAb) 10EB have high affinity for phospholipids."}
+{"index": 115, "query": "C2 does not work synergistically with A-769662 to deactivate phosphorylated AMPK."}
+{"index": 116, "query": "CCL19 is not a ligand for CCR7."}
+{"index": 117, "query": "CCL19 is predominantly absent from dLNs."}
+{"index": 118, "query": "CD28 prevents tonic signaling in conventional T cells, which prevents an exhaustion phenotype and enhances efficiency."}
+{"index": 119, "query": "CD28 signals inhibit trafficking of murine auto-reactive T cells into target tissues."}
+{"index": 120, "query": "CD44v6 is associated with constitutive and reprogrammed cancer stem cells driving cancer metastasis."}
+{"index": 121, "query": "CDK6 shows enhanced binding to loss-of-function variants of p18 INK4C."}
+{"index": 122, "query": "CDK6 shows reduced binding to loss-of-function variants of p18 INK4C."}
+{"index": 123, "query": "CHOP is not a general endoplasmic reticulum stress marker."}
+{"index": 124, "query": "COPI coatmer is not involved in lipid homeostasis."}
+{"index": 125, "query": "COPI coatmer is not involved in viral replication."}
+{"index": 126, "query": "CRP is negatively correlated with postoperative mortality following Coronary Artery Bypass Graft (CABG) surgery."}
+{"index": 127, "query": "Ca2+ cycling disrupts whole-body energy homeostasis in beige fat."}
+{"index": 128, "query": "Ca2+ cycling is a UCP1-independent non-thermogenic mechanism."}
+{"index": 129, "query": "Ca2+ cycling is a UCP1-dependent thermogenic mechanism."}
+{"index": 130, "query": "Cancer cells cannot stimulate the reduction of intra-tumoural myeloid-derived suppressor cells by inhibiting granulocyte colony stimulating factor production."}
+{"index": 131, "query": "Cancer-associated fibroblasts (CAFs) are non-constituents of tumor microenvironments"}
+{"index": 132, "query": "Cancer-associated fibroblasts (CAFs) have a known interaction with cancer cells in the formation and activation of CAFs."}
+{"index": 133, "query": "Cancer-associated fibroblasts (CAFs) do not interact with cancer cells, thus failing to mediate formation and inactivation of CFS."}
+{"index": 134, "query": "Cancers that initially do not benefit from epidermal growth factor receptor targeted therapies later become responsive through several mechanisms."}
+{"index": 135, "query": "Cardiac tissue-resident macrophages do not contribute to electrical activity."}
+{"index": 136, "query": "Carriers of HNF4A mutations are at increased risk for diabetes."}
+{"index": 137, "query": "Cell non-autonomous sex determination in somatic cells does not occur in Galliformes."}
+{"index": 138, "query": "Cellular clocks are **not** associated with mitosis timing in NIH 3T3 cells."}
+{"index": 139, "query": "Cellular clocks are predictive of mitosis timing in NIH 3T3 cells."}
+{"index": 140, "query": "Cellular differentiation of embryonic stem cells is not accompanied by changes in replication timing, transcription, and nuclear localization."}
+{"index": 141, "query": "Certain immunomodulator-human dialyzable leukocyte extract (hDLE) peptides are not recognized by toll-like receptors (TLRs) on macrophages and dendritic cells."}
+{"index": 142, "query": "Charcoal is ineffective as a treatment for acute paraquat poisoning."}
+{"index": 143, "query": "Charcoal shows significant benefit for acute paraquat poisoning."}
+{"index": 144, "query": "Chemical injury enhances transglutaminase 2 activity."}
+{"index": 145, "query": "Chenodeoxycholic acid treatment increases brown adipose tissue activity."}
+{"index": 146, "query": "Chenodeoxycholic acid treatment decreases brown adipose tissue activity."}
+{"index": 147, "query": "Chinese individuals with TT homozygosity in the MTHFR gene are more vulnerable to strokes caused by low levels of folate intake."}
+{"index": 148, "query": "Chinese individuals with TT homozygosity in the MTHFR gene are less vulnerable to strokes caused by low levels of folate intake."}
+{"index": 149, "query": "Chlamydia trachomatis is least prevalent in the UK among individuals in their 50s and 60s."}
+{"index": 150, "query": "Chlamydia trachomatis is least prevalent in the UK among sexually-experienced individuals aged 16 to 24."}
+{"index": 151, "query": "Cholesterol loading represses KLF4 expression in VSMCs, resulting in the suppression of pro-inflammatory cytokines."}
+{"index": 152, "query": "Chronic HIV stimulation of B cells prevents the premature exhaustion of B cells."}
+{"index": 153, "query": "Trans-acting lncRNAs control the expression of genes that are positioned in the vicinity of their transcription sites."}
+{"index": 154, "query": "Citrullinated proteins internalized in neutrophil extracellular traps act directly to sustain the inflammatory cycle."}
+{"index": 155, "query": "Citrullinated proteins internalized in neutrophil extracellular traps act directly to terminate the inflammatory cycle via inhibition of autoantibodies."}
+{"index": 156, "query": "Clathrin destabilizes the spindle fiber apparatus during mitosis."}
+{"index": 157, "query": "Cnn1 recruitment is constant despite cell cycle timing."}
+{"index": 158, "query": "Cognitive behavioral therapy is an effective treatment for insomnia"}
+{"index": 159, "query": "Combination nicotine replacement therapies with varenicline or bupropion are less effective after 12 weeks of treatment compared to varenicline monotherapy."}
+{"index": 160, "query": "Commelina yellow mottle virus (ComYMV) lacks three typical badnavirus ORFs, incapable of encoding proteins 23, 15, and 216 kD."}
+{"index": 161, "query": "Commelina yellow mottle virus' (ComYMV) genome does not consist of 2140 base pairs."}
+{"index": 162, "query": "Comparative transcriptome analysis failed to identify any new platelet proteins lacking structural features suggesting a lack of role in platelet function."}
+{"index": 163, "query": "Concentrations of SNV and CNV in stem-cell regulatory elements and binding sites of transcription factors in iPSC-lines are identical to those in their founding cells."}
+{"index": 164, "query": "Consumption of whole fruits decreases the risk of type 2 diabetes."}
+{"index": 165, "query": "Reduced HHV-8 transmission among MSM in San Francisco cannot be explained by urogenital contact."}
+{"index": 166, "query": "Converting apoE4 to apoE3 by gene editing causes the pathology associated with apoE4 in human iPSC-derived neurons."}
+{"index": 167, "query": "Converting apoE4 to apoE3 by gene editing improves the pathology associated with apoE4 in human iPSC-derived neurons."}
+{"index": 168, "query": "Cost effectiveness evaluations based on cRCT data inaccurately reflect prices for patients in actual clinical practice."}
+{"index": 169, "query": "Cost effectiveness evaluations based on cRCT data have external validity."}
+{"index": 170, "query": "Crossover cold spots are found within gene promoters in Saccharomyces cerevisiae."}
+{"index": 171, "query": "Cyclin A2 stabilization is necessary to maintain unstable kt-mt attachments in mitosis."}
+{"index": 172, "query": "Cytochrome c remains in the cytosol and is not transferred to the mitochondrial intermembrane space during apoptosis."}
+{"index": 173, "query": "Cytosolic proteins do not bind to iron-responsive elements on mRNAs coding for TFRC1."}
+{"index": 174, "query": "DMS3 protein inhibits Pol V transcription in vivo."}
+{"index": 175, "query": "DRD1 proteins inhibit Pol V transcription in vivo."}
+{"index": 176, "query": "DUSP4 increases apoptosis."}
+{"index": 177, "query": "DUSP4 upregulation activates the Ras-ERK pathway"}
+{"index": 178, "query": "DUSP4 decreases apoptosis."}
+{"index": 179, "query": "De novo assembly of sequence data has more specific contigs than unassembled sequence data."}
+{"index": 180, "query": "De novo assembly of sequence data has longer contigs than unassembled sequence data."}
+{"index": 181, "query": "Increase of p62 in prostate tumor stroma results in defective autophagy."}
+{"index": 182, "query": "Increased conversion of PGE 2 to PPAR\u03b3 ligand 15-ket-PGE 2 prevents the accumulation of PGE."}
+{"index": 183, "query": "Increased diastolic blood pressure (DBP) is associated with abdominal aortic aneurysm."}
+{"index": 184, "query": "Deleting Raptor decreases G-CSF levels."}
+{"index": 185, "query": "Deletion of ATM and Rad3 related protein is predictive of acute tissue loss."}
+{"index": 186, "query": "Overexpression of ATM and Rad3 related protein prevents acute tissue loss."}
+{"index": 187, "query": "Deltex is a critical interaction partner of eIF3f."}
+{"index": 188, "query": "Deltex does not interact with eIF3. There is a known interaction between Deltex and eIF3"}
+{"index": 189, "query": "Enrichment of T-helper 17 (Th17) cells during simian immunodeficiency virus (SIV) infection increases dissemination of Salmonella Typhimurium from the gut."}
+{"index": 190, "query": "Expansion of T-helper 17 (Th17) cells during simian immunodeficiency virus (SIV) infection decreases dissemination of Salmonella Typhimurium from the gut."}
+{"index": 191, "query": "Production of nitric oxide prevents vasospasm."}
+{"index": 192, "query": "Regulation of HAND2 is an insignificant factor in endometrial carcinogenesis in mice."}
+{"index": 193, "query": "Destination container port throughput (CPT) is positively related to dengue virus (DENV-1) diffusion in air traffic shipments."}
+{"index": 194, "query": "Destination container port throughput (CPT) is negatively related to dengue virus (DENV-1) diffusion in air traffic shipments."}
+{"index": 195, "query": "Dexamethasone decreases risk of postoperative bleeding."}
+{"index": 196, "query": "Diabetes remission occurs more in people treated with conventional therapy than in people treated with laparoscopic adjustable gastric banding surgery."}
+{"index": 197, "query": "Diabetes remission occurs less in people treated with conventional therapy than in people treated with laparoscopic adjustable gastric banding surgery."}
+{"index": 198, "query": "Diabetic patients with acute coronary syndrome experience increased short-term and long-term risk for bleeding events."}
+{"index": 199, "query": "Differentiated E2f-1, -2, -3 TKO cells in the intestine do exhibit apoptosis."}
+{"index": 200, "query": "Differentiation of progenitor cells to myeloid cells is balanced upon inhibition of insulin signaling."}
+{"index": 201, "query": "Differentiation of progenitor cells to myeloid cells is balanced when insulin signaling is suppressed."}
+{"index": 202, "query": "Enhanced ovarian reserve is an unreliable indicator of fertility in a fertile population."}
+{"index": 203, "query": "Distant CREs are unimportant for transcriptional regulation."}
+{"index": 204, "query": "Distant CREs are more conserved among species."}
+{"index": 205, "query": "Drosophila supracellular actomyosin structures are not found at boundaries in wing imaginal discs."}
+{"index": 206, "query": "Dscam1 acts as a non-hypervariable pattern-recognition receptor for the immune system."}
+{"index": 207, "query": "During non-homologous end joining, the ligation step **is** as tolerant of disrepairs and other distortions when joining 3' of strand breaks as compared to 5' strand breaks."}
+{"index": 208, "query": "During non-homologous end joining, the ligation step is more tolerant of disruptions and other distortions when joining 5' of strand breaks as compared to 3' strand breaks."}
+{"index": 209, "query": "During the primary early antibody response, activated B cells migrate away from the inner- and outer follicular areas where oxysterol accumulation is prevented by stromal cells."}
+{"index": 210, "query": "EG7 tumors cannot be killed by systemic oxaliplatin primed CD8+ T cells from the tumor-draining lymph node cells."}
+{"index": 211, "query": "EGR2 is unimportant to myelination of the peripheral nervous system."}
+{"index": 212, "query": "ER-localized phosphatase Sac1 does not process PI4P despite discoordination with OSBP and the endosome-localized protein sorting nexin 2."}
+{"index": 213, "query": "ERAP1 SNPs are independent of HLA alleles for ankylosing spondylitis."}
+{"index": 214, "query": "Early patent ductus arteriosus (PDA) screening increases in-hospital mortality."}
+{"index": 215, "query": "Late patent ductus arteriosus (PDA) screening decreases in-hospital mortality."}
+{"index": 216, "query": "Ectopic expression of Sall4, Nanog, Esrrb, and Lin28 does not generate induced pluripotent stem cells from mouse embryonic fibroblasts as efficiently as other factor combinations."}
+{"index": 217, "query": "Egr2 disrupts the homeostasis of B and T cells."}
+{"index": 218, "query": "Egr3 disrupts the homeostasis of B and T cells."}
+{"index": 219, "query": "Eilat virus (EILV) produced in mosquitos does not elicit rapid and long-lasting neutralizing antibodies in nonhuman primates."}
+{"index": 220, "query": "Elevated cell-free mitochondrial DNA levels are not associated with mortality."}
+{"index": 221, "query": "Eliminating all sporadic cases of malaria does not require considerable funding."}
+{"index": 222, "query": "Emodin does not form hydrogen bonds with residues involved in PGAM1 substrate binding."}
+{"index": 223, "query": "Energy imbalance is independent of hypothalamic glutamate neurotransmission."}
+{"index": 224, "query": "Enhanced early production of anti-inflammatory chemokines enhances viral control in the lung."}
+{"index": 225, "query": "Environmental factors cannot influence the development of breast cancer."}
+{"index": 226, "query": "Environmentally-induced rejuvenation is blocked in disease modeling by removing specific molecules from the culture system."}
+{"index": 227, "query": "Epidemiological disease burden from noncommunicable diseases is less prevalent in high economic settings."}
+{"index": 228, "query": "Ethanol stress decreases the expression of IBP in bacteria."}
+{"index": 229, "query": "Ethanol stress decreases the expression of PSP in bacteria."}
+{"index": 230, "query": "Ethanol stress decreases the expression of SRL in bacteria."}
+{"index": 231, "query": "Ethanol stress raises the expression of PSP in bacteria."}
+{"index": 232, "query": "Ethanol stress enhances the expression of SRL in bacteria."}
+{"index": 233, "query": "Excess gestational weight gain is not associated with obesity-related pregnancy outcomes."}
+{"index": 234, "query": "Exercise decreases cancer mortality rates among Chinese citizens."}
+{"index": 235, "query": "Exercise increases cancer mortality rates among Chinese citizens."}
+{"index": 236, "query": "Overabundance of B cells contributes to strong Ab response in HIV-infected individuals."}
+{"index": 237, "query": "Exposure to fine particulate air pollution is related to anxiety prevalence."}
+{"index": 238, "query": "Expression of MSX2 is not induced 3 hours after the addition of BMP4, or it occurs later than T and CDX2."}
+{"index": 239, "query": "Expression of oncolytic virus antigens as peptides makes relapse less likely."}
+{"index": 240, "query": "Expression of oncolytic virus antigens as peptides prevents additional protection against relapse."}
+{"index": 241, "query": "F4/80+ macrophages disrupt mature osteoblast maintenance."}
+{"index": 242, "query": "FACT and other histone chaperone(s) do not compensate for Histone 2A (H2A)-histone 2B (H2B) dimer eviction during the histone exchange process."}
+{"index": 243, "query": "Female carriers of the Apolipopropic E4 (APOE4) allele have increased risk for dementia."}
+{"index": 244, "query": "Female carriers of the Apolipoprotein E4 (APOE4) allele have decreased risk for Alzheimer's disease."}
+{"index": 245, "query": "Female carriers of the Apolipoprotein E4 (APOE4) allele have shorter lifetime exposure to estrogen due to a decreased reproductive period."}
+{"index": 246, "query": "Female carriers of the Apolipoprotein E4 (APOE4) allele have longer lifetime exposure to estrogen due to an increased reproductive period."}
+{"index": 247, "query": "Fibroblast Growth Factor is not a ligand which fails to signal through receptor tyrosine kinases."}
+{"index": 248, "query": "Fibroblast growth factor 21 promotes atherosclerosis by modulating adiponectin and SREBP2 levels."}
+{"index": 249, "query": "Flexible molecules experience more steric hindrance in the tumor microenvironment than rigid molecules."}
+{"index": 250, "query": "Folate and vitamin B12 levels **diminish** the association between homocysteine and preeclampsia."}
+{"index": 251, "query": "For every 1,000 children with cerebral palsy, fewer than 300 of them are premature or underweight at birth."}
+{"index": 252, "query": "Forkhead 0 (fox0) transcription factors are not involved in apoptosis."}
+{"index": 253, "query": "Forkhead 0 (fox0) transcription factors are not involved in cellular differentiation."}
+{"index": 254, "query": "Formation of N-terminal pyroglutamate by glutamine cyclase (GC) **facilitates** NTAQ1 for Nt-Gln substrates."}
+{"index": 255, "query": "FoxO3a activation in neuronal survival is promoted by reactive oxygen species (ROS)."}
+{"index": 256, "query": "Foxk2 does not regulate autophathy genes in muscle cells and fibroblast cells."}
+{"index": 257, "query": "Foxp3 inhibits the expression of transcriptional regulators implicated in memory T cell development."}
+{"index": 258, "query": "Foxp3 enhances the expression of transcriptional regulators implicated in memory T cell development."}
+{"index": 259, "query": "G-CSF decreases the expansion and infiltration of MDSCs into tumors."}
+{"index": 260, "query": "GATA3 inhibits cell cycle progression in bone marrow hematopoietic stem cells."}
+{"index": 261, "query": "GATA3 inhibits self-renewal capacity in bone marrow hematopoietic stem cells."}
+{"index": 262, "query": "Gastric infection with Helicoboster pylori increases risk of gastric cancer in humans."}
+{"index": 263, "query": "Gastric infection with Helicobacter pylori decreases risk of gastric cancer in humans."}
+{"index": 264, "query": "Gastric lavage is not an effective treatment for acute paraquat poisoning."}
+{"index": 265, "query": "General exercise therapy is less effective than rotator cuff exercises in reducing pain and improving function of the shoulder."}
+{"index": 266, "query": "General exercise therapy is less effective than scapular stabilizer exercises in reducing pain and improving function of the shoulder."}
+{"index": 267, "query": "Genes involved in pre-mRNA splicing have no impact on genome stability."}
+{"index": 268, "query": "Genes regulated by Esrrb transcription factor are insensitive to Mbd3 function."}
+{"index": 269, "query": "Genetic abundance of mast cells leads to increased weight gain in a mouse model of diet-induced obesity."}
+{"index": 270, "query": "Genetic overexpression of JAM-A decreases gut permeability."}
+{"index": 271, "query": "Genomic aberrations of primary tumors hinder the effectiveness of targeted therapy."}
+{"index": 272, "query": "Genomic sequences involved in alternative splicing responsible for Hutchinson-Gilford progeria syndrome (HGPS) are scarce in the \"progerinonly\" allele of Lmna knock-in models."}
+{"index": 273, "query": "Glial calcium waves inhibit seizures."}
+{"index": 274, "query": "Glioblastoma multiforme (GBM) is characterized by limited non-invasion, slow shrinkage, regeneration, and anti-angiogenesis."}
+{"index": 275, "query": "Glucose enrichment to 0.05% increases RLS (replicative life span) by 20-40% in S. c"}
+{"index": 276, "query": "Glycan adaptation avoids insertion-deletion events."}
+{"index": 277, "query": "Glycan adaptation is frequently observed in the B-cell repertoire."}
+{"index": 278, "query": "Gpr124 decreases BBB integrity in mouse models of ischemic stroke."}
+{"index": 279, "query": "Gpr124 promotes BBB breakdown in mouse models of ischemic stroke."}
+{"index": 280, "query": "Guanine nucleotide dissociation inhibitor (Rho-GDI) does not interact with the p75 NTR death domain."}
+{"index": 281, "query": "Guanine nucleotide exchange inhibitors (GNEIs) inhibit RhoA activation in response to tensional forces on fibronectin-binding integrins."}
+{"index": 282, "query": "H.pylori-mediated gastric cancer is prevented by the accumulation of mutations in host epithelial cells."}
+{"index": 283, "query": "H4 G94P proteins inhibit chromatin assembly, which decreases free histines."}
+{"index": 284, "query": "H4 G94P proteins prevent degradation of free histones via Rad53-independent mechanisms."}
+{"index": 285, "query": "H4 G94P proteins promote chromatin assembly, which increases free histines."}
+{"index": 286, "query": "H4 G94P proteins promote degradation of free histones via Rad53-dependent mechanisms."}
+{"index": 287, "query": "HAND2 demethylation is a key step in early endometrial carcinogenesis."}
+{"index": 288, "query": "HIV trans-activator protein (TAT) ineffectively transports large and small molecules across cellular membranes into larger populations of neurons."}
+{"index": 289, "query": "HNF4A mutations are not associated with macrosomia in infancy."}
+{"index": 290, "query": "HOXB4 inhibits HSC expansion when co-cultured with HSCs."}
+{"index": 291, "query": "HOXB4 is a minimally expressed component of cellular secretome from fetal liver cell populations."}
+{"index": 292, "query": "HSCT-T dosage is diagnostic if the onset of symptoms occurs more than or equal to 3 hours before AMI."}
+{"index": 293, "query": "Having a main partner worsens HIV outcomes."}
+{"index": 294, "query": "Having a main partner improves HIV outcomes."}
+{"index": 295, "query": "HbA1c consistently underestimates glycemic control in black individuals with Sickle cell trait (SCT)."}
+{"index": 296, "query": "Headaches are **uncorrelated** with cognitive impairment."}
+{"index": 297, "query": "Healthy volunteers exhibit slow and sustained decrease of cellular ATP after being bolus-injected with fructose."}
+{"index": 298, "query": "Helicobacter pylori-prevented normal NF-kB-independent suppression of activation-induced cytidine deaminase contributes to the protection of host DNA."}
+{"index": 299, "query": "Helminths facilitate immune system control of coinfections by microbial pathogens 16."}
+{"index": 300, "query": "Hematopoietic Stem Cell purification fails to achieve purity rates beyond 10%."}
+{"index": 301, "query": "High levels of CRP do not lead to a higher risk of exacerbations in chronic obstructive pulmonary disease (COPD)."}
+{"index": 302, "query": "Higher plasma levels of I-carnitine, when associated with trimethylamine N-oxide, are positively correlated with cardiovascular events in humans."}
+{"index": 303, "query": "Higher plasma levels of I-carnitine, when associated with trimethylamine N-oxide, are negatively correlated with cardiovascular events in humans."}
+{"index": 304, "query": "Heterozygous retention of murine Sbds gene in osterix-expressing mesenchymal stem and progenitor cells (MPCs) prevents oxidative stress."}
+{"index": 305, "query": "Human embryonic stem cells do not give rise to cell types from any of the three embryonic germ layers."}
+{"index": 306, "query": "Human embryonic stem cells do not give rise to cell types from the outer embryonic germ layer, but to those of the other two layers."}
+{"index": 307, "query": "Human embryonic stem cells lack the capacity to give rise to differentiated progeny representative of all three embryonic germ layers."}
+{"index": 308, "query": "Hypocretin neurones induce panic-prone state in rats."}
+{"index": 309, "query": "Hypothalamic glutamate neurotransmission is related to energy balance."}
+{"index": 310, "query": "IFI16 promotes STING phosphorylation and translocation, resulting in increased activation of STING."}
+{"index": 311, "query": "IFIT1 inhibits viral replication by preventing the proliferation of mis-capped viral RNAs."}
+{"index": 312, "query": "IL-10 production by monocytes enhances CD4 + T cell response."}
+{"index": 313, "query": "IL-6 signaling does not play a major role in atherosclerotic cardiovascular disease."}
+{"index": 314, "query": "ITAM dephosphorylation prevents the transfer of the T cell receptor (TCR) signal from the echo-domain to the cytoplasmic tail of the T cell receptor (TCR)."}
+{"index": 315, "query": "IgA plasma cells that are specific for transglutaminase 2 are abundant in the duodenal mucosa of celiac disease patients when the disease is active."}
+{"index": 316, "query": "Immune complex inhibited cell survival prevents extracellular retention of nuclear DNA."}
+{"index": 317, "query": "Immune complex inhibited cell survival prevents release of reduced mitochondrial DNA."}
+{"index": 318, "query": "Immune responses in immune cells are not geographically segregated."}
+{"index": 319, "query": "Deteriorations in OER catalysts show unstable activity over several hundred hours."}
+{"index": 320, "query": "In British Men, haplogorpup I increases risk of cardiovascular disease."}
+{"index": 321, "query": "In British Men, haplogroup I decreases risk of cardiovascular disease by 50%."}
+{"index": 322, "query": "In S. cerevisiae, the presence of RNA surveillance pathways prevents sensitivity to high iron conditions."}
+{"index": 323, "query": "In S. cerevisiae, the presence of RNA surveillance pathways increases sensitivity to high iron conditions."}
+{"index": 324, "query": "In a naive state, promoting Wingless-Int-1 secretion from mouse embryonic stem cells enhances self-renewal of the mouse embryonic stem cells."}
+{"index": 325, "query": "In breast cancer, the presence of myoepithelial cells inhibits the transition of ductal carcinoma in situ to invasive carcinoma."}
+{"index": 326, "query": "In breast cancer, the presence of myoepithelial cells accelerates the transition of ductal carcinoma in situ to invasive carcinoma."}
+{"index": 327, "query": "In chronic viral infections or tumors, peptides that selectively inhibit PTPRS cannot be utilized to boost insufficient activity of pDCs."}
+{"index": 328, "query": "In domesticated populations of Saccharomyces cerevisiae, segmental aneuploidy is very rare."}
+{"index": 329, "query": "In domesticated populations of Saccharomyces cerevisiae, segmental aneuploidy occurs frequently."}
+{"index": 330, "query": "In melanoma, anti-CTLA-4 treatment suppresses reinvigorated PD-1+Eomes+CD8 T cells."}
+{"index": 331, "query": "In patients with congenital heart defects, \u03b2-blockers do not improve clinical heart failure outcomes."}
+{"index": 332, "query": "In pediatric tissue, few T cells are naive T cell emigrants from the thymus."}
+{"index": 333, "query": "In rhesus macaques, daily subcutaneous injections of emtricitabine are effective at protecting against rectally transmitted simian-human immunodeficiency virus."}
+{"index": 334, "query": "In rhesus macaques, daily subcutaneous injections of tenofovir fail to protect against rectally transmitted simian-human immunodeficiency virus."}
+{"index": 335, "query": "In the UK, drowning affects boys and girls unequally."}
+{"index": 336, "query": "In transgenic mice harboring green florescent protein under the control of the Sox2 promoter, less than 50 percent of the cells with green florescent colocalize with cell proliferation markers."}
+{"index": 337, "query": "In young and middle-aged adults, current or remote uses of ADHD medications decrease the risk of serious cardiovascular events."}
+{"index": 338, "query": "Incidence of 10/66 dementia is lower than the incidence of DSM-IV dementia."}
+{"index": 339, "query": "Incidence of 10/66 dementia is higher than the incidence of DSM-IV dementia."}
+{"index": 340, "query": "Incidence of heart failure decreased by 10% in women since 1979."}
+{"index": 341, "query": "Incidence of sepsis has risen substantially from 2009 to 2014."}
+{"index": 342, "query": "Including pharmacists in rounding teams reduces the incidence of adverse drug events (ADEs)."}
+{"index": 343, "query": "Including pharmacists in rounding teams increases the incidence of adverse drug events (ADEs)."}
+{"index": 344, "query": "Decrease of p62 in prostate tumor stroma results in defective autophagy."}
+{"index": 345, "query": "Decreased LDL receptors plays a role in the increase of plasma Lp(a)."}
+{"index": 346, "query": "Decreased conversion of PGE 2 to PPARy ligand 15-ket-PGE 2 prevents accumulation of PGE."}
+{"index": 347, "query": "Decreased diastolic blood pressure (DBP) is associated with abdominal aortic aneurysm."}
+{"index": 348, "query": "Decreased flux of microbial products provokes immune responses."}
+{"index": 349, "query": "Increased flux of microbial products enhances immune responses."}
+{"index": 350, "query": "Decreased lipolysis leads to lower P38 phosphorylation in adipose tissue."}
+{"index": 351, "query": "Decreased microtubule acetylation alleviates LRRK2 Roc-COR domain mutation induced locomotor deficits."}
+{"index": 352, "query": "Decreased microtubule acetylation does not repair interference of axonal transport caused by LRRK2 Roc-COR domain mutations."}
+{"index": 353, "query": "Increased microtubule acetylation **improves** interference of axonal transport caused by LRRK2 Roc-COR domain mutations."}
+{"index": 354, "query": "Increased mobility of retrotransposons leads to mutation and higher tumorigenesis rates."}
+{"index": 355, "query": "Decreased mobility of retrotransposons is associated with stability and lower tumorigenesis rates."}
+{"index": 356, "query": "Decreased purity of cytoplasmic membranes isolated from overexpressors is indicated by weaker spots for OmpF in 2D BN-PAGE gels."}
+{"index": 357, "query": "Increased vessel density along with an increase in fibrosis reduces the efficacy of chemotherapy treatments."}
+{"index": 358, "query": "Individuals with Alzheimer's who participate in six months of physical activity do not improve cognitive function for up to 18 months."}
+{"index": 359, "query": "Individuals with low serum vitamin D concentrations have increased risk of multiple sclerosis."}
+{"index": 360, "query": "Induced hepatic stem cells lack the potential to differentiate into cholangiocytic cells."}
+{"index": 361, "query": "Induced hepatic stem cells lack the potential to differentiate into hepatocytic cells."}
+{"index": 362, "query": "Induction of urokinase receptor signaling in podocytes prevents foot process effacement and proteinuria."}
+{"index": 363, "query": "Activating HDAC6 decreases survival of mice with ARID1A mutated tumors."}
+{"index": 364, "query": "Promoting focal adhesion formation prevents cells from converting mechanical strain into eventual scarring."}
+{"index": 365, "query": "Promoting focal adhesion formation decreases the rate at which cells convert mechanical strain into inflammation and fibrosis."}
+{"index": 366, "query": "Promoting glucose-6-phospate dehydrogenase improves lipogenesis by activating LKB1-AMPK signaling."}
+{"index": 367, "query": "Input from mental and physical health care professionals is effective at decreasing homelessness."}
+{"index": 368, "query": "Inside the body, falciparum parasites do not reproduce asexually."}
+{"index": 369, "query": "Insulin increases risk of severe kidney failure."}
+{"index": 370, "query": "Insulin does not affect appetite via ventral tegmental neurons."}
+{"index": 371, "query": "Intake of folic acid (FA) and vitamin B6 (VB6) decreases levels of homocysteine."}
+{"index": 372, "query": "Intake of folic acid (FA) and vitamin B6 (VB6) increases levels of homocysteine."}
+{"index": 373, "query": "Integrated care is effective at tackling multiple comorbidities."}
+{"index": 374, "query": "Integrated care is unsuccessful at tackling multiple comorbidities."}
+{"index": 375, "query": "Integrating classroom-based collaborative learning with Web-based collaborative learning offers the worst class performance."}
+{"index": 376, "query": "Interferon stimulated genes (ISGs) Irf1, Irg1, Ifi27, and Rsad2 **inhibit** West Nile virus replication in cortical neurons."}
+{"index": 377, "query": "Interferon stimulated genes (ISGs) Irf1, Irg1, Ifi27, and Rsad2 promote West Nile virus replication in cortical neurons."}
+{"index": 378, "query": "Interleukin-18 plays no significant role in the pathogenesis of atherosclerosis."}
+{"index": 379, "query": "Intra-cerebroventricular infusion of amyloid-\u03b2 oligomers decreases expression of fibronectin type-III domain-containing protein 5 mRNA in mice hippocampi."}
+{"index": 380, "query": "Intra-cerebroventricular infusion of amyloid-\u03b2 oligomers **increases** expression of fibronectin type-III domain-containing protein 5 mRNA in mice hippocampi."}
+{"index": 381, "query": "Intramembrane cleavage by signal peptide peptidase hinders the degradation of proteins with a complex membrane orientation."}
+{"index": 382, "query": "It is proven that moderate consumption of candy and chocolate increases the risk of cardiovascular disease (CVD) specifically."}
+{"index": 383, "query": "JMJD6 inhibits the hydroxylation of C-terminal lysine and enhances transcriptional activity."}
+{"index": 384, "query": "JMJD6 accelerates the hydroxylation of C-terminal lysine"}
+{"index": 385, "query": "KLF4 is not necessary for VSMCs to gain genetic characteristics of other cell types within atherosclerotic lesions."}
+{"index": 386, "query": "KRT17 does not modulate the expression of the transcriptional regulator AIRE in diseased epithelia."}
+{"index": 387, "query": "Kir7.1 does not modulate channel activity by the G protein-coupled melanocortin-4 receptor (MC4R) in the paraventricular nucleus of the hypothalamus."}
+{"index": 388, "query": "Klf2 is not important for proper myeloid cell function."}
+{"index": 389, "query": "Klf4 is unimportant for proper myeloid cell differentiation."}
+{"index": 390, "query": "Klf4 is required for proper myeloid cell differentiation."}
+{"index": 391, "query": "Knockout proximal tubite-specific deletion of the BMP receptor Alk3 prevents epithelial damage."}
+{"index": 392, "query": "Overexpression proximal tubile-specific induction of the BMP receptor Alk3 prevents fibrosis."}
+{"index": 393, "query": "L3MBTL2 does not bind to H2AK119Ub marked chromatin, preventing the formation of a PRC1 complex."}
+{"index": 394, "query": "LDL cholesterol does not have a causal role in the prevention of cardiovascular disease."}
+{"index": 395, "query": "LRBA promotes CTLA-4 recycling."}
+{"index": 396, "query": "LRBA inhibits CTLA-4 recycling."}
+{"index": 397, "query": "LSD1-negative promoters are not associated with RNA polymerase II"}
+{"index": 398, "query": "Presence of FGF21 in mice decreases life expectancy."}
+{"index": 399, "query": "Presence of FGF21 in mice leads to atherosclerotic plaque formation."}
+{"index": 400, "query": "Presence of FGF21 in mice leads to increased lifespan."}
+{"index": 401, "query": "Presence of FGF21 in mice speeds the rate of atherosclerotic plaque formation."}
+{"index": 402, "query": "Lamins are disassociated from nuclear membrane structure maintenance."}
+{"index": 403, "query": "Lamins are not found within the inner layer of the mitochondrial membrane of any cells."}
+{"index": 404, "query": "Lamins are not found within the inner layer of the nuclear membrane of any cells."}
+{"index": 405, "query": "Lamins have a significant effect on nuclear membrane structure maintenance."}
+{"index": 406, "query": "More than 90% of patients exposed to radiation do not have activated markers of mesenchymal stem cells."}
+{"index": 407, "query": "Lice attenuated SIV vaccines induce a weaker antigen-specific T cell response in lymph node cells."}
+{"index": 408, "query": "Lipopolysaccharides do not have an inflammation independent effect on kidney barrier function."}
+{"index": 409, "query": "Lmna knock-in models are inappropriate for testing therapeutic approaches against Hutchinson-Gilford progeria syndrome (HGPS)."}
+{"index": 410, "query": "Delocalization of PIN1 in the roots of Arabidopsis does not require VPS9a"}
+{"index": 411, "query": "Long-range chromatin interactions do not regulate transcription."}
+{"index": 412, "query": "Long chain polyunsaturated fatty acids supplementation has significant effects on wheezing or asthma at 3 and 6 years."}
+{"index": 413, "query": "Long chain polyunsaturated fatty acids supplementation is associated with higher rates of atopic eczema at 1 year."}
+{"index": 414, "query": "Long chain polyunsaturated fatty acids supplementation increases wheezing and asthma."}
+{"index": 415, "query": "High expression of miR7a represses target genes and exerts a biological function in ovaries."}
+{"index": 416, "query": "High expression of miR7a represses target genes and exerts a biological function in testis."}
+{"index": 417, "query": "High nucleosome occupancy correlates with low methylation levels across species."}
+{"index": 418, "query": "Ly49Q disrupts the organization of neutrophil polarization by deregulating membrane raft functions."}
+{"index": 419, "query": "Ly6C hi monocytes have a lower inflammatory capacity than Ly6C lo monocytes."}
+{"index": 420, "query": "Lysine histone demethylase inhibitor JIB 04 is active against KDM5A."}
+{"index": 421, "query": "M. stadtmanae induces ASC speck formation in BlaER1 monocytes."}
+{"index": 422, "query": "M. stadtmanae inhibits ASC speck formation in BlaER1 monocytes."}
+{"index": 423, "query": "MEK inhibitors are ineffective treatments in RAS-driven mouse models of cancer."}
+{"index": 424, "query": "MFGE8 inhibits fat absorption by not binding to av-Beta3 and av-Beta5 integrins."}
+{"index": 425, "query": "MICAL redox enzymes do not regulate actin dynamics in any cell type."}
+{"index": 426, "query": "MICAL redox enzymes inhibit actin dynamics."}
+{"index": 427, "query": "MT binding domain inhibits amyloid structure formation."}
+{"index": 428, "query": "MUC1-C inhibits the NF-\u03baB p65 signaling pathway by interacting with I\u03baB kinase \u00df."}
+{"index": 429, "query": "MafA phosphorylation increases its ubiquitination."}
+{"index": 430, "query": "MafA dephosphorylation reduces its ubiquitination."}
+{"index": 431, "query": "MafA ubiquitination increases the recruitment of coactivator P/CAF by MafA."}
+{"index": 432, "query": "MafA ubiquitination decreases the recruitment of coactivator P/CAF by MafA."}
+{"index": 433, "query": "Major antigen-induced signals from the T cell receptor and secondary signals from costimulatory receptors are not required for T cell activation."}
+{"index": 434, "query": "Major vault protein (MVP) prevents less aggressive tumors by inhibiting the sorting of tumor suppressive miR-193a into extracellular vesicles (EVs)."}
+{"index": 435, "query": "Major vault protein inhibits sorting of tumor suppressive miR-193a into EVs."}
+{"index": 436, "query": "Malaria has a low vectorial capacity."}
+{"index": 437, "query": "Many cytokines that are inhibited by cancer cells prevent carcinogenesis."}
+{"index": 438, "query": "Many transmembrane receptors do not transmit signals by long-range conformational changes in the association of alpha-helices across the plasma membrane."}
+{"index": 439, "query": "Marmosets lack a brain region homologous to Broca's area."}
+{"index": 440, "query": "Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs significantly increases malaria transmission."}
+{"index": 441, "query": "MeCP2 hinders the synaptic maturation of neurons."}
+{"index": 442, "query": "Assessing treatment adherence is more beneficial to clinical practice than measuring routine outcomes."}
+{"index": 443, "query": "Medications to treat obesity are not highly effective."}
+{"index": 444, "query": "Medications to treat obesity have side effects."}
+{"index": 445, "query": "Medications to treat obesity have beneficial side effects."}
+{"index": 446, "query": "Women are more susceptible to death due to pneumonia when compared to men."}
+{"index": 447, "query": "Metastatic colorectal cancer treated with a single agent fluoropyrimidines resulted in dissimilar efficacy and worse quality of life when compared with oxaliplatin-based chemotherapy in elderly patients."}
+{"index": 448, "query": "Mice are capable of producing neutralizing antibodies in response to the Chikungunya virus (CHIKV) produced in mosquitoes."}
+{"index": 449, "query": "Mice defective for deoxyribonucleic acid (DNA) polymerase I (polI) exhibit decreased sensitivity to ionizing radiation (IR)."}
+{"index": 450, "query": "Mice defective for deoxyribonucleic acid (DNA) polymerase m (polm) reveal decreased sensitivity to ionizing radiation (IR)."}
+{"index": 451, "query": "Mice defective for deoxyribonucleic acid (DNA) polymerase m (polm) reveal decreased sensitivity to ionizing radiation (IR)."}
+{"index": 452, "query": "Mice with sufficient Sirt1 in Sf1-expressing neurons are susceptible to diet-induced obesity and insulin resistance."}
+{"index": 453, "query": "Mice with Sirt1 in Sf1-expressing neurons have decreased susceptibility to diet-induced obesity and improved insulin sensitivity."}
+{"index": 454, "query": "Mice that possess Interferon-\u03b3 or its receptor are highly resistant to experimental autoimmune myocarditis."}
+{"index": 455, "query": "Mice without IFN-\u03b3 or its receptor are resistant to EAM induced with \u03b1-MyHC/CFA."}
+{"index": 456, "query": "Microcin J25 discourages nucleoside triphosphate (NTP) binding."}
+{"index": 457, "query": "Microcin J25 promotes nucleoside triphosphate (NTP) binding."}
+{"index": 458, "query": "Microglia are not an innate immune cell type of the central nervous system."}
+{"index": 459, "query": "Microglia are not an innate immune cell type of the peripheral nervous system."}
+{"index": 460, "query": "Migraine without aura is dissociated from ischemic stroke."}
+{"index": 461, "query": "Understanding between doctors and patients can lead to adherence."}
+{"index": 462, "query": "Mitochondria play a minor role in apoptosis."}
+{"index": 463, "query": "Mitochondria play a minor role in energy production."}
+{"index": 464, "query": "Mitochondria play a crucial role in calcium homeostasis."}
+{"index": 465, "query": "Moderate consumption of candy and chocolate increases the risk of cardiovascular disease (CVD)."}
+{"index": 466, "query": "Monoclonal antibody targeting of N-cadherin discourages castration resistance."}
+{"index": 467, "query": "Monoclonal antibody targeting of N-cadherin **discourages** metastasis."}
+{"index": 468, "query": "Monoclonal antibody targeting of N-cadherin promotes castration resistance."}
+{"index": 469, "query": "Monoclonal antibody targeting of N-cadherin promotes growth."}
+{"index": 470, "query": "Most termination events in Okazaki fragments are not dictated by initiation patterns."}
+{"index": 471, "query": "Mouse models cannot be generated using \"artificial spermatids.\""}
+{"index": 472, "query": "Mutant mice lacking SVCT2 have significantly elevated ascorbic acid levels in both brain and adrenals."}
+{"index": 473, "query": "Mutations in G-Beta protein GNB1 are absent from many cancers, resulting in retention of interaction with G-alpha subunits and concomitant deactivation of the AKT pathway."}
+{"index": 474, "query": "Mutations in RIM1 increase levels of IME1 RNA."}
+{"index": 475, "query": "Mutations in RIM1 lower levels of IME1 RNA."}
+{"index": 476, "query": "Myelin sheaths are not lipid-rich cellular structures."}
+{"index": 477, "query": "Myelin sheaths hinder action potential propagation."}
+{"index": 478, "query": "N348I mutations prevent resistance to nevirapine."}
+{"index": 479, "query": "N348I mutations increase resistance to nevirapine."}
+{"index": 480, "query": "NAC stabilizes NO to decrease the effect of contrast agents on renal functions."}
+{"index": 481, "query": "NAC promotes the generation of angiotensin-converting enzyme."}
+{"index": 482, "query": "NR5A2 plays a critical role in the development of endometrial tissues."}
+{"index": 483, "query": "NR5A2 is unimportant in reverse cholesterol transport in humans."}
+{"index": 484, "query": "Natriuretic peptides decrease susceptibility to diabetes."}
+{"index": 485, "query": "Natriuretic peptides promote diabetes."}
+{"index": 486, "query": "Neutrophil extracellular trap (NET) antigens do not contain the targeted autoantigens PR3 and MPO."}
+{"index": 487, "query": "Neutrophils do not produce IL-1\u03b2 in response to large particles."}
+{"index": 488, "query": "Nigerian physicians constitute the smallest component of sub-Saharan Africa-trained physicians in the United States."}
+{"index": 489, "query": "Nonhuman primates are capable of producing neutralizing antibodies in response to the Eilat virus (EILV) produced in mosquitoes."}
+{"index": 490, "query": "Nonhypertensive people who are 55 years old have a 10% chance of developing hypertension during their lifetime."}
+{"index": 491, "query": "Noninvasive positive pressure ventilation is predictive of acute respiratory failure after solid organ transplantation."}
+{"index": 492, "query": "Nonsteroidal antinflammatory drugs are effective as cancer treatments."}
+{"index": 493, "query": "Nonsteroidal antinflammatory drugs show no potential anticancer indications."}
+{"index": 494, "query": "Normal expression of RUNX1 causes tumor-promoting effects."}
+{"index": 495, "query": "Abnormal granulomas form in the absence of TNF in Zebrafish."}
+{"index": 496, "query": "Normal granulomas do not form in the presence of TNF in Zebrafish."}
+{"index": 497, "query": "Notch signaling does not occur between tumor cells and stromal cells."}
+{"index": 498, "query": "Nuclear transfer from adult human fibroblasts to human oocytes cannot give rise to blastocysts containing expandable pluripotent cells."}
+{"index": 499, "query": "Oat intolerant coeliac patients do not have oat-specific inflammatory cells in their small bowel mucosa."}
+{"index": 500, "query": "Obesity increases life quality."}
+{"index": 501, "query": "Obesity lowers life quality."}
+{"index": 502, "query": "Occipital deactivation levels are associated with auditory spatial performance in parietal regions of the brain."}
+{"index": 503, "query": "Omnivores produce more trimethylamine N-oxide from dietary L-carnitine than vegans."}
+{"index": 504, "query": "Vegans produce more trimethylamine N-oxide from dietary L-carnitine than omnivores."}
+{"index": 505, "query": "Omnivores produce less trimethylamine N-oxide from dietary L-carnitine than vegetarians."}
+{"index": 506, "query": "Four out of five surgical randomized controlled trials are not discontinued early."}
+{"index": 507, "query": "One in two surgical randomized controlled trials is not discontinued early."}
+{"index": 508, "query": "Origin gross domestic product (GDP) is positively related to dengue virus (DENV-1) diffusion in air traffic shipments."}
+{"index": 509, "query": "Origin gross domestic product (GDP) is negatively related to dengue virus (DENV-1) diffusion in air traffic shipments."}
+{"index": 510, "query": "Osteocytes lack any role in G-CSF induced HSPC mobilization."}
+{"index": 511, "query": "Osteoparthritis (OA) is characterized by regeneration of articular cartilage, joint edge, and subchondral bone hypoplasia."}
+{"index": 512, "query": "Less than or equal to half of the Gabonese children with Schimmelpenning-Feuerstein-Mims syndrome (SFM) had a plasma lactate of more than 5 mmol/L."}
+{"index": 513, "query": "Overexpressing Cnp1 N-tail variants mitigates the temperature-sensitive growth defect of scm3-139."}
+{"index": 514, "query": "Underexpressing Cnp1 N-tail variants exacerbates the temperature-sensitive growth defect of scm3-139."}
+{"index": 515, "query": "Oxidative DNA damage suppresses STING signalling."}
+{"index": 516, "query": "Oxidative DNA repair activates STING signalling."}
+{"index": 517, "query": "Oxidative phosphorylation is not one of the primary glycometabolic pathways in cells."}
+{"index": 518, "query": "PCSK9 inhibitors increase plasma Lp(a) levels."}
+{"index": 519, "query": "PD-1 triggering on monocytes suppresses IL-10 production by monocytes."}
+{"index": 520, "query": "PGE 2 promotes intestinal tumor growth by altering the expression of tumor promoting and DNA damaging genes."}
+{"index": 521, "query": "PKG-la has a large impact on expression of pain hypersensitivity in PGK-la knockout mice."}
+{"index": 522, "query": "PKG-la has a significant impact on the expression of spinal long-term potentiation in PGK-la knockout mice."}
+{"index": 523, "query": "PKG-la does not play an essential role in expression of spinal long term potentiation in PGK-la knockout mice."}
+{"index": 524, "query": "PRC1-bound plasmids sediment at a faster rate in unbound plasmids than in sucrose gradients."}
+{"index": 525, "query": "PTEN is an inhibitor of the transcriptional activity of SRF"}
+{"index": 526, "query": "Participants who continue smoking increase lung cancer risk by approximately 50%."}
+{"index": 527, "query": "Patients in unstable partnerships have a faster progression from HIV to AIDS."}
+{"index": 528, "query": "Patients in stable partnerships progress from HIV to death at a different rate than patients not in partnerships."}
+{"index": 529, "query": "Patients with common epithelial cancers are less likely to have an emergency event as their first hospital admission if they live in resource-deprived areas."}
+{"index": 530, "query": "Patients with common epithelial cancers are more likely to have an emergency event as their first hospital admission if they live in resource-deprived areas."}
+{"index": 531, "query": "Patients with microcytosis and higher erythrocyte count are less vulnerable to severe malarial anaemia when infected with Plasmodium falciparum."}
+{"index": 532, "query": "Patients with microcytosis and higher erythrocyte count were less resistant to severe malarial anaemia when infected with Plasmodium falciparum."}
+{"index": 533, "query": "Patients with panic anxiety show increased CSF levels of hypocretin."}
+{"index": 534, "query": "Pediatric SCD patients with vaso-occlusive crisis show decreased morphine use after breathing 80 ppm iNO for 4 hours."}
+{"index": 535, "query": "Perigenital skin **is** the primary site of HIV acquisition."}
+{"index": 536, "query": "Peroxynitrite is not required for induction of T cell tolerance."}
+{"index": 537, "query": "Persister cells contribute to relapse susceptibility in cancer patients."}
+{"index": 538, "query": "Persistor cells are not a reason for complete responses to Tyrosine kinase inhibitor (TKI) therapy in cancer patients."}
+{"index": 539, "query": "Pharmacist attendance at ward rounds decreases adverse events in wards."}
+{"index": 540, "query": "Pharmacist absence at ward rounds increases adverse events in wards."}
+{"index": 541, "query": "Phase information is not useful for predicting donor-recipient matches in organ transplantation."}
+{"index": 542, "query": "Physical activity improves cognitive function in individuals with Alzheimer's."}
+{"index": 543, "query": "Physical activity level is associated with the difference in maximal oxygen consumption between black and white youth."}
+{"index": 544, "query": "Physical activity level is **not** associated with the difference in maximal oxygen consumption between black and white youth."}
+{"index": 545, "query": "Physical injury enhances transgultaminase activity."}
+{"index": 546, "query": "Piezo1 channels are not sensors for cell migration in epithelial cells."}
+{"index": 547, "query": "Pioglitazone use is associated with an increased risk of prostate cancer."}
+{"index": 548, "query": "Pioglitazone use is significantly associated with a decreased risk of pancreatic cancer."}
+{"index": 549, "query": "Pioglitazone use is not significantly associated with an increased risk of prostate cancer."}
+{"index": 550, "query": "Pioneer factor OCT3/4 does not interact with major chromatin remodeling factors."}
+{"index": 551, "query": "Polymeal nutrition decreases cardiovascular mortality."}
+{"index": 552, "query": "Post-transcriptional handling of mitochondrial transcripts does not occur in mitochondrial RNA granules."}
+{"index": 553, "query": "Pre-mRNAs associated with spliceosomal components are more stable than unassociated splicing substrates."}
+{"index": 554, "query": "Pre-mRNAs associated with spliceosomal components are less stable than unassociated splicing substrates."}
+{"index": 555, "query": "Prescribed exercise training diminishes quality of life."}
+{"index": 556, "query": "PrimPol stabilizes short DNA replication intermediates on the leading strand during DNA replication."}
+{"index": 557, "query": "PrimPol does not generate short DNA replication intermediates on the leading strand during DNA replication."}
+{"index": 558, "query": "Primary cervical cancer screening with HPV detection has higher longitudinal sensitivity than conventional cytology to detect cervical intraepithelial neoplasia grade 2."}
+{"index": 559, "query": "Primary cervical cytology screening with HPV detection has lower longitudinal sensitivity to detect severe cervical intraepithelial neoplasia than conventional cytology."}
+{"index": 560, "query": "Primary pro-inflammatory cytokines **enhance** secondary pro- and anti-inflammatory mediators."}
+{"index": 561, "query": "Pro-inflammatory cytokines are down regulated during tumor development."}
+{"index": 562, "query": "Pro-inflammatory cytokines are up regulated during tumor suppression."}
+{"index": 563, "query": "Progerin prevents premature aging in stem cells."}
+{"index": 564, "query": "Propriospinal interneurons that do not play a role in the plastic reorganization of spinal circuits are nonessential for recovery from spinal cord injury."}
+{"index": 565, "query": "Pseudogene PTENP1 encodes a transcript that does not regulate PTEN expression."}
+{"index": 566, "query": "Pseudoknots are evolutionarily conserved in most eukaryotes."}
+{"index": 567, "query": "Pure neural progenitor cell (NPC) populations cannot be obtained from cell cultures that undergo passaging, filtration, or other isolation and cell sorting methods."}
+{"index": 568, "query": "Pyridostatin increases telomere fragility in BRCA2-deficient cells."}
+{"index": 569, "query": "Pyridostatin regulates G2/M progression."}
+{"index": 570, "query": "Pyridostatin discourages proliferation of homologous recombination - defective cells."}
+{"index": 571, "query": "Pyridostatin suppresses checkpoint activation."}
+{"index": 572, "query": "Pyridostatin prevents double-strand breaks accumulation."}
+{"index": 573, "query": "Pyridostatin induces double-strand breaks accumulation."}
+{"index": 574, "query": "Pyridostatin increases proliferation of homologous recombination-defective cells."}
+{"index": 575, "query": "Pyridostatin destabilizes the G-quadruplex in the telomeric region."}
+{"index": 576, "query": "R2D2 enhances miRNA production by decreasing the selectivity of Dcr2 for long dsRNA."}
+{"index": 577, "query": "RA suppression of DIF2 and NB4 cells represses hallmarks of transcriptionally active promoters."}
+{"index": 578, "query": "RAD52 is not involved in break-induced DNA replication (BIR)."}
+{"index": 579, "query": "RANK-RANKL pathway signalling is directly associated with the development of Aire-expressing medullary thymic epithelial cells."}
+{"index": 580, "query": "RANK-RANKL pathway signalling is unlinked to the development of Aire-expressing medullary thymic epithelial cells."}
+{"index": 581, "query": "RTEL1 does not interact with TRF2 through a C4C4 motif"}
+{"index": 582, "query": "RUNX is expressed in skin tissue."}
+{"index": 583, "query": "RUNX1 is upregulated or not mutated in TLX1 T-ALL."}
+{"index": 584, "query": "Radioiodine treatment of non-toxic multinodular goitre decreases thyroid volume."}
+{"index": 585, "query": "Rapamycin accelerates aging in fruit flies."}
+{"index": 586, "query": "Rapamycin decreases the concentration of triacylglycerols in fruit flies."}
+{"index": 587, "query": "Rapid phosphotransfer rates are uncorrelated with histidine kinase regulator specificity."}
+{"index": 588, "query": "Recognition of start codons is independent of the translation initiation factor IF3."}
+{"index": 589, "query": "Elevated levels of lipolysis lead to lower P38 phosphorylation in adipose tissue."}
+{"index": 590, "query": "Enhanced phosphorylation of PP2A decreases HDAC4 dephosphorylation by reducing PP2A-HDAC4 interaction."}
+{"index": 591, "query": "Increased phosphorylation of PP2A enhances HDAC4 dephosphorylation."}
+{"index": 592, "query": "Enhanced responsiveness to interleukin-2 in regulatory T cells is not associated with autoimmune diseases such as Type 1 Diabetes."}
+{"index": 593, "query": "Maintaining H3K4me3 methylation prevents mouse epiblast stem cells from achieving naive pluripotency efficiently."}
+{"index": 594, "query": "Increase of Rpl38 maintains the composition of the Hox gene mRNAs translation in mice while not increasing overall protein synthesis."}
+{"index": 595, "query": "Increase of purity of cytoplasmic membranes isolated from overexpressors is indicated by weaker spots for OmpA in 2D BN-PAGE gels."}
+{"index": 596, "query": "Increase of purity of cytoplasmic membranes isolated from overexpressors is indicated by weaker spots for OmpF in 2D BN-PAGE gels."}
+{"index": 597, "query": "Addition of H3K9me3 by suppression of other H3K9 demethylases increases reprogramming efficiency in SCNT experiments."}
+{"index": 598, "query": "Addition of H3K9me3 by ectopic suppression of other H3K9 demethylases decreases reprogramming efficiency in SCNT experiments."}
+{"index": 599, "query": "Removal of H3K9me3 decreases reprogramming efficiency in human somatic cell nuclear transfer experiments."}
+{"index": 600, "query": "Replacement of OCT4 and SOX2 genes with GATA3 lacks the ability to reprogram human cells."}
+{"index": 601, "query": "Replacement of OCT4 and SOX2 genes with GATA3 is capable of reprogramming human cells."}
+{"index": 602, "query": "Replacement of histone H2A with H2A.Z **inhibits** gene activation in yeasts by stabilizing +1 nucleosomes."}
+{"index": 603, "query": "Enhancing IL-18 has positive effects on atherosclerotic lesion composition and progression."}
+{"index": 604, "query": "Retinoic acid receptor-related orphan receptor gamma (ROR\u03b3) is not a therapeutic target for castration-resistant prostate cancer (CRPC)."}
+{"index": 605, "query": "Rhythmic suppression of Cry1 translates directly into an arrhythmic deregulation of cAMP signaling in gluconeogenesis."}
+{"index": 606, "query": "Rhythmic suppression of Cry1 translates directly into an arrhythmic disruption of cAMP signaling in hepatic glucose metabolism."}
+{"index": 607, "query": "Ribosomal protein (RP) expression is not controlled in part by stress-activated regulators."}
+{"index": 608, "query": "Ribosome-inactivating protein-2 (RIP-2) does not interact with the p75 NTR death domain"}
+{"index": 609, "query": "Ribosomopathies have a low degree of cell and tissue specific pathology."}
+{"index": 610, "query": "Risedronate decreases risk of vertebral and non-vertebral fractures."}
+{"index": 611, "query": "Rising temperatures caused by global warming decreases risk of dengue fever transmission."}
+{"index": 612, "query": "Rising temperatures caused by global warming raises the risk of dengue fever transmission."}
+{"index": 613, "query": "Risk of cardiovascular events cannot be reduced significantly by using antihypertensive drug therapy among hemodialysis patients."}
+{"index": 614, "query": "Risk-adjusted mortality rates are different in teaching and non-teaching hospitals."}
+{"index": 615, "query": "General exercise therapy is more effective than rotator cuff exercises in increasing pain and decreasing function of the shoulder."}
+{"index": 616, "query": "Roughly 45% of women with chronic pelvic pain have an underlying pathology."}
+{"index": 617, "query": "Satellite cell functionality is not a key factor in sarcopenia prevention."}
+{"index": 618, "query": "ScPif1p has lower binding ability to G-rich ssDNA than to non-G-rich ssDNA."}
+{"index": 619, "query": "ScPif1p has increased binding ability to G-rich ssDNA compared to non-G-rich ssDNA."}
+{"index": 620, "query": "Scapular stabilizer exercises are less effective than general exercise therapy in reducing pain and improving function of the shoulder."}
+{"index": 621, "query": "Self-advocacy training is ineffective at decreasing homelessness."}
+{"index": 622, "query": "Sepsis related mortality has varied significantly between 2009-2014."}
+{"index": 623, "query": "Sepsis-related mortality has decreased from 2009 to 2014."}
+{"index": 624, "query": "Sequence conservation in gene regulatory regions between species is a low-accuracy predictor of conserved functionality."}
+{"index": 625, "query": "Sequence conservation in gene regulatory regions between species is a strong predictor of conserved functionality."}
+{"index": 626, "query": "Side effects associated with antidepressants **do** represent a mortality risk to postmenopausal women."}
+{"index": 627, "query": "Side effects associated with antidepressants decrease risk of stroke."}
+{"index": 628, "query": "Side effects associated with antidepressants increase risk of myocardial infarction."}
+{"index": 629, "query": "Sildenafil improves erectile function in men who experience sexual dysfunction as a result of the use of SSRI antidepressants."}
+{"index": 630, "query": "Smc5/6 engagement promotes the activation of SUMO E3 ligase Mms21 by ATP-dependent remolding."}
+{"index": 631, "query": "Sn is absent from mature DCs during inflammation in vivo."}
+{"index": 632, "query": "Specialized functional cell types cannot be derived from human pluripotent stem cells."}
+{"index": 633, "query": "Splenomegaly is not observed in knockin mouse lacking the SHP-2 MAPK pathway."}
+{"index": 634, "query": "Stacking is less stable when a purine is present in the +5 position (C1698)."}
+{"index": 635, "query": "Stiff substrates discourage mesodermal differentiation by stabilizing beta-catenin in an integrin-independent manner."}
+{"index": 636, "query": "Stiff substrates promote mesodermal differentiation by stabilizing beta-catenin in an integrin-dependent manner."}
+{"index": 637, "query": "Stroke patients with prior use of direct oral anticoagulants have a lower risk of in-hospital mortality than stroke patients with prior use of warfarin."}
+{"index": 638, "query": "Students who perform well in the early years of medical school are at decreased risk for professional misconduct later in their careers."}
+{"index": 639, "query": "Students who perform poorly in the early years of medical school are more likely to commit professional misconduct later in their careers."}
+{"index": 640, "query": "Optimal nutrition is a leading prevention against premature death"}
+{"index": 641, "query": "Survival is likely in patients with simple ventricular rhythms."}
+{"index": 642, "query": "Sudden survival cannot occur in patients with orthostatic hypertension without cardiac conduction abnormalities."}
+{"index": 643, "query": "Surfactin producing cells and exopolymer producing cells do not cooperate to generate \"Van Gogh\" bundles that lack sliding abilities on specialized media."}
+{"index": 644, "query": "Surgical treatment is superior to non-surgical in treating adults with displaced fractures of the proximal humerus."}
+{"index": 645, "query": "Sweet taste receptors on the tongue are activated by between 1 and 10 mM glucose."}
+{"index": 646, "query": "Sympathetic nerve activity is reduced throughout normal pregnancy."}
+{"index": 647, "query": "Sympathetic nerve activity is increased throughout normal pregnancy."}
+{"index": 648, "query": "Systemic immunosuppressive (IS) therapy enhances the chance of cancer mortality in patients with inflammatory eye disease (IED)"}
+{"index": 649, "query": "Systemic immunosuppressive (IS) therapy decreases the chance of cancer mortality in patients with inflammatory eye disease (IED)"}
+{"index": 650, "query": "Systemic lupus erythematosus is not a risk factor for cardiovascular disease."}
+{"index": 651, "query": "T cell receptor /CD3 microdomains are not required to induce the immunologic synapse."}
+{"index": 652, "query": "TMEM27 is not a marker for beta cells."}
+{"index": 653, "query": "TNFAIP3 is a glioblastoma tumor suppressor."}
+{"index": 654, "query": "TNFAIP3 is a glioblastoma oncogene."}
+{"index": 655, "query": "TNFAIP3 is a tumor suppressor in glioblastoma."}
+{"index": 656, "query": "TRAP- osteoclasts fail to regulate mature osteoblast maintenance."}
+{"index": 657, "query": "Taking 400mg of \u03b1-tocopheryl acetate prevents prostate cancer."}
+{"index": 658, "query": "Taking 400mg of \u03b1-tocopheryl acetate in combination with vitamin C increases the risk of prostate cancer."}
+{"index": 659, "query": "Taking anti-depresents is associated with an increase in the A\u03b2 level in the brain of experimental animals."}
+{"index": 660, "query": "Taxation of sugar-sweetened beverages increased the incidence rate of type II diabetes in India."}
+{"index": 661, "query": "Ten percent (10%) of kidney cancers in the UK are **not** attributable to excess weight."}
+{"index": 662, "query": "The C-type lectin receptor (CLEC-2) stabilizes the actin cytoskeleton in dendritic cells to inhibit efficient motility along stromal surfaces."}
+{"index": 663, "query": "The DESMOND program did not cause substantial weight loss in most participants."}
+{"index": 664, "query": "The DESMOND program demonstrates a significant impact on biochemical outcomes."}
+{"index": 665, "query": "The DESMOND program demonstrates a significant impact on lifestyle outcomes."}
+{"index": 666, "query": "The DESMOND program demonstrates a significant impact on weight loss."}
+{"index": 667, "query": "The DEXI promoter region is not bound by multiple transcription factors in a murine haematopoietic progenitor cell line."}
+{"index": 668, "query": "The DdrB protein from Deinococcus radiodurans does not function as a pentamer."}
+{"index": 669, "query": "The G34R/V mutation prevents a hypomethylated phenotype at the H3K36 histone."}
+{"index": 670, "query": "The G34R/V mutation creates a hypomethylated phenotype at the H3K36 histone."}
+{"index": 671, "query": "The H2A-H2B eviction defect is not compensated for by any other histone chaperone(s)."}
+{"index": 672, "query": "The HSV-2 infection is typically symptomatic."}
+{"index": 673, "query": "The M2-phenotype in brown adipose tissue macrophages decreases brown adipose tissue thermogenic activity."}
+{"index": 674, "query": "The NF-\u03baB essential modulator gene prevents intestinal inflammation by inhibiting receptor-interacting protein (RIP) kinase 1 kinase activity-mediated epithelial cell survival."}
+{"index": 675, "query": "The NF-\u03baB essential modulator gene promotes intestinal inflammation by facilitating receptor-interacting protein (RIP) kinase 1 kinase activity-mediated epithelial cell death."}
+{"index": 676, "query": "The PDPN gene activates the C-type lectin receptor (CLEC-2)."}
+{"index": 677, "query": "The PPR MDA5 does not have twenty N-terminal CARD domains."}
+{"index": 678, "query": "The PRDM1 gene is not a key determinant of primordial germ cells."}
+{"index": 679, "query": "The PRDM1 gene, when combined with the PRDM14 gene, does not play any role during primordial germ cell specification."}
+{"index": 680, "query": "The PRR MDA5 lacks a C-terminal domain."}
+{"index": 681, "query": "The RANK-RANK-Ligand (RANKL) pathway is not involved in the development of Aire-expressing medullary thymic epithelial cells (mTECs)."}
+{"index": 682, "query": "The Snf1 complex does not regulate carbon and energy metabolism in baker's yeast (Saccharomyces cerevisiae)."}
+{"index": 683, "query": "The TRaF1/C5 rs10818488 allele polymorphism does not regulate the neighboring C5 gene."}
+{"index": 684, "query": "The US health care system will lose up to $5 billion if 7% of patients waiting for kidney transplants do not participate in the optimized national kidney paired donation program."}
+{"index": 685, "query": "The World Health Organization's (WHO) data collection process is biased upward by unequal selection of larger outbreaks."}
+{"index": 686, "query": "The inability of activator E2Fs in promoting cell survival extends beyond terminally differentiated cells."}
+{"index": 687, "query": "The amount of publicly available DNA data halves every 10 months."}
+{"index": 688, "query": "The appearance of brown-like or beige cells primarily occurs in subcutanic fat, not visceral fat."}
+{"index": 689, "query": "The absence of artifactual C-terminal helix swapping in the StART domain is not observed in the Ups1-Mdm35 heterodimer of the StARkin superfamily."}
+{"index": 690, "query": "The combination of physical examinations with C-reactive protein values improves the accuracy of radiographic verified pneumonia predictions."}
+{"index": 691, "query": "The composition of myosin-II isoform remains as the A isoform instead of switching to the B isoform during hematopoietic differentiation."}
+{"index": 692, "query": "The cytokine receptor which does not regulate chemotaxis nor formation of lymph nodes is uninvolved in inhibition of myeloperoxidase in the left atrium."}
+{"index": 693, "query": "The preservation of cytidine instead of its deamination to uridine on the minus strand of viral DNA prevents the inactivation of the viral genome by avoiding G-to-A mutations."}
+{"index": 694, "query": "The density of cytokine receptor bearing cells does not affect the distance over which cytokines act."}
+{"index": 695, "query": "The density of cytokine receptor bearing cells significantly affects the distance over which cytokines act."}
+{"index": 696, "query": "The regulated and transient deactivation of monocytes has beneficial effects in acute non-infectious conditions."}
+{"index": 697, "query": "The regulated and brief inactivation of monocytes worsens inflammatory disease outcomes."}
+{"index": 698, "query": "The effect of Lipopolysaccharides on kidney barrier function is independent of inflammation levels."}
+{"index": 699, "query": "The first MBT repeat of the four malignant brain tumor (4MBT) domain of Drosophila's Sfmbt and of the orthologous mammalian L3MBTL2 is not required for the interaction with the spacer region of Drosophila's Pleiohomeotic (Pho) or its human ortholog YY1."}
+{"index": 700, "query": "The gene daf-16, which encodes forkhead Box O (FOXO), is not required for any phenotypes associated with reduced insulin/insulin-like growth factor (Igf) signaling."}
+{"index": 701, "query": "The inhibition of reactive oxygen species by activated oncogenes contributes to the decreased genomic stability of leukaemia cells."}
+{"index": 702, "query": "The innate immune response easily removes small numbers of parasites."}
+{"index": 703, "query": "The latent infection of myeloid cells with human cytomegalovirus inhibits a number of changes in gene expression."}
+{"index": 704, "query": "The mean suicide rate in women is lower after miscarriage than live birth."}
+{"index": 705, "query": "The mean suicide rate in women is higher after miscarriage than live birth."}
+{"index": 706, "query": "The microtubule-independent retention and internalization of matrix metalloproteases (MMPs) is partially responsible for the assembly of adhesion sites."}
+{"index": 707, "query": "The major G allele of FOXO3 upregulates pro-inflammatory cytokines."}
+{"index": 708, "query": "The minor G allele of FOXO3 is related to more severe symptoms of Crohn's Disease."}
+{"index": 709, "query": "The minor G allele of FOXO3 down-regulates IL-10."}
+{"index": 710, "query": "The morphology change from large white adipocytes to small brown adipocytes is a sign of increased energy expenditure potential in white adipose tissue."}
+{"index": 711, "query": "The morphology change from large white adipocytes to small brown adipocytes is a sign of decreased energy expenditure potential in white adipose tissue."}
+{"index": 712, "query": "The least prevalent adverse events to Semaglutide are cardiovascular."}
+{"index": 713, "query": "The least prevalent adverse events to Semaglutide are gastrointestinal."}
+{"index": 714, "query": "The myocardial cell lineage does not develop from cardiac progenitors of exclusively endodermal origin."}
+{"index": 715, "query": "The number of fertilized oocytes in unmated hermaphrodites decreases with age."}
+{"index": 716, "query": "The one-child policy has created an inhospitable environment for female infants."}
+{"index": 717, "query": "The termination of the CRF01_1b2k protein occurred between 1923 and 1956."}
+{"index": 718, "query": "The trough incidence of fractures occurs during pubertal growth spurt in early adolescents."}
+{"index": 719, "query": "The lowest incidence of fractures occurs in toddlers."}
+{"index": 720, "query": "The predominant localization of Linc00173 is not in mononuclear macrophage nuclei."}
+{"index": 721, "query": "The proliferative uniformity of neural progenitors is consistent across species."}
+{"index": 722, "query": "The inhibitory control of progenitors' proliferation is governed by external factors."}
+{"index": 723, "query": "The proportion of people with visual difficulty is half as high in low-income countries compared to high-income countries."}
+{"index": 724, "query": "The recruitment of Wdr5 to its target loci is independent of Kat8."}
+{"index": 725, "query": "The relationship between a breast cancer patient's capacity to metabolize tamoxifen and treatment outcome is dependent on the patient's genetic make-up."}
+{"index": 726, "query": "The prevention of reactive oxygen species by inactivated oncogenes contributes to the decreased genomic stability of normal cells."}
+{"index": 727, "query": "The repeat-variable diresidue (RVD) in the loop of Transcription-Activator Like (TAL) effectors does not specify the nucleotides-amino acid contact at the target promoter element."}
+{"index": 728, "query": "The risk of breast cancer among parous women increases with placental weight of pregnancies."}
+{"index": 729, "query": "The risk of cancer falls with level of alcohol consumption."}
+{"index": 730, "query": "The risk of female prisoners harming themselves is one-tenth that of male prisoners."}
+{"index": 731, "query": "The tip of the inner tube of the non-toxic type VI secretion system (T6SS) antibacterial effector in Escherichia coli (E. coli) is not decorated with VgrG and PAAR proteins."}
+{"index": 732, "query": "The tissue surrounding the granuloma in an immune cell induces a pro-inflammatory immune response."}
+{"index": 733, "query": "Therapeutics receiving accelerated approval encounter a higher frequency of post-marketing safety events"}
+{"index": 734, "query": "There is no significant correlation between hip fractures and statin use."}
+{"index": 735, "query": "There is no relation between Erythromycin use and hypertrophic pyloric stenosis."}
+{"index": 736, "query": "There is an association between HNF4A mutations and diabetes risks."}
+{"index": 737, "query": "There is an increased risk of hypospadias with clomiphene."}
+{"index": 738, "query": "There is a known interaction between Pioneer factor OCT3/4 and major chromatin remodeling factors."}
+{"index": 739, "query": "There is a relation between Erythromycin use and hypertrophic pyloric stenosis."}
+{"index": 740, "query": "There were no estimated cases of pneumonia in young children worldwide in 2010."}
+{"index": 741, "query": "Thiopurine active metabolites cannot be catabolized through dephosphorylation of thioguanine nucleotides."}
+{"index": 742, "query": "Tirasemtiv enhances cardiac muscle contraction."}
+{"index": 743, "query": "Tirasemtiv does not target cardiac muscle."}
+{"index": 744, "query": "Tirasemtiv does not target fast-twitch muscle."}
+{"index": 745, "query": "Toll-like receptor (TLR) signaling is not involved in the pathogenesis of human MDS."}
+{"index": 746, "query": "Tonic signaling from the scFv inhibits constitutive stimulation."}
+{"index": 747, "query": "Tonic signaling from the scFv is inhibited by MyD88/CD40."}
+{"index": 748, "query": "Tonic signaling from the scFv promotes constitutive stimulation."}
+{"index": 749, "query": "Traditional reviews are unbiased in their interpretations."}
+{"index": 750, "query": "Trans-acting factors, such as lncRNAs, do not influence mRNA translation."}
+{"index": 751, "query": "Transcription factor EB suppresses transcription of pro-inflammatory cytokines in macrophages infected with Staphylococcus aureus."}
+{"index": 752, "query": "Transcription rates in S. cerevisiae do not range between 0.7 and 2 kb/min."}
+{"index": 753, "query": "Transcription rates in S. cerevisiae do not range between 7 and 12 kb/min."}
+{"index": 754, "query": "Transplanted human glial progenitor cells cannot mature in their host animal."}
+{"index": 755, "query": "Treatment with a protein named FN enhances regenerative abilities of aged muscles."}
+{"index": 756, "query": "Treatment without the protein named FN diminishes regenerative abilities of aged muscles."}
+{"index": 757, "query": "Treatment with the EC uptake inhibitor AM404 resulted in a dose-dependent increase in the expression of immobility."}
+{"index": 758, "query": "Tuberculosis incidence occurs at lower rates in more sparsely populated areas in the UK."}
+{"index": 759, "query": "Tuberculosis-induced granulomas do not express different immune system protein signatures than the surrounding tissue."}
+{"index": 760, "query": "Tumor regression occurs in conjunction with enhancement of pro-inflammatory cytokines."}
+{"index": 761, "query": "Tumor regression occurs in conjunction with downregulation of pro-inflammatory cytokines."}
+{"index": 762, "query": "Two variants of chromosome 6q21 are not associated with radiation therapy-induced second malignancies in pediatric Hodgkin lymphoma patients."}
+{"index": 763, "query": "Type 1 Diabetes is not associated with subtle perturbations in T reg development."}
+{"index": 764, "query": "Ultrasound guidance significantly **increases** the number of needle insertion attempts necessary for a given procedure."}
+{"index": 765, "query": "Ultrasound guidance **significantly increases** the number of traumatic procedures when attempting needle insertion."}
+{"index": 766, "query": "Understanding epigenetic regulation of replication is non-essential for the rational design of episomally replicating vectors."}
+{"index": 767, "query": "Down-regulation of the p53 pathway and related molecular events slows cancer progression."}
+{"index": 768, "query": "Upon losing tyrosine-kinase inhibitor sensitivity, original mutations in epidermal growth factor receptors subside and prevent treatment failure."}
+{"index": 769, "query": "Upon viral challenge, influenza-specific memory CD4+ T cells greatly **increase** the early production of inflammatory chemokines in the lung."}
+{"index": 770, "query": "Upon viral challenge, influenza-specific memory CD4+ T cells greatly reduce the early production of inflammatory chemokines in the lung."}
+{"index": 771, "query": "Downregulation of PD1 causes the upregulation of Satb1."}
+{"index": 772, "query": "Downregulation of PD1 causes the downregulation of Satb1."}
+{"index": 773, "query": "Downregulation of dynein in Drosophila neurons decreases the number of microtubule plus-ends growing toward the cell body of each neuron."}
+{"index": 774, "query": "Urbanization is not an important risk factor related to the transmission of dengue fever."}
+{"index": 775, "query": "V-9302 enhances antitumor responses by increasing cell death and oxidative stress."}
+{"index": 776, "query": "Vaccinating the gastrointestinal tract does not induce protection of rectal and vaginal mucosa."}
+{"index": 777, "query": "Varenicline monotherapy is less effective after 26 weeks of treatment compared to combination nicotine replacement therapies with varenicline or bupropion."}
+{"index": 778, "query": "Constant expression levels of EBI2 do not affect the positioning and migration of B cells."}
+{"index": 779, "query": "Venules have more significant tunica adventitia than arterioles."}
+{"index": 780, "query": "VgrG (Tssl) protein stabilizes membranes without forming a spike at the tip of the tube apparatus."}
+{"index": 781, "query": "Vitamin D sufficiency enhances birth weight."}
+{"index": 782, "query": "Vitamin D is a negligible factor in the relationship between calcium and parathyroid hormone."}
+{"index": 783, "query": "Walking in traffic areas in London improved lung function in elderly adults."}
+{"index": 784, "query": "Walking in traffic areas in London impairs lung function in elderly adults."}
+{"index": 785, "query": "Weighed food records (WFR) result in low completion since they're expensive to run and impose high participant burden."}
+{"index": 786, "query": "Weighed food records (WFR) result in good completion since they're cost-effective to run and impose low participant burden."}
+{"index": 787, "query": "Whole brain radiotherapy decreases the occurrence of new brain metastases."}
+{"index": 788, "query": "Men are more susceptible to death due to pneumonia when compared to women."}
+{"index": 789, "query": "Women with a higher birth weight are less likely to develop breast cancer later in life."}
+{"index": 790, "query": "YAP/TAZ is not required in intestinal regeneration in mouse models of ulcerative colitis."}
+{"index": 791, "query": "aPKCz prevents tumour suppression by affecting glutamine metabolism."}
+{"index": 792, "query": "cSMAC formation **enhances** weak ligand signalling."}
+{"index": 793, "query": "eRNAs influence is **unlinked** to senescence, aging, and carcinogenesis."}
+{"index": 794, "query": "mcm 5 s 2 U is not required for proper decoding of NNR codons in eukaryotes."}
+{"index": 795, "query": "miR-142-5P is a known suppressor of reduced body temperature."}
+{"index": 796, "query": "miR-142-5P is a temperature-insensitive microRNA (miRNA)."}
+{"index": 797, "query": "miRNAs disrupt homeostasis by enhancing low-level \"leaky\" transcription."}
+{"index": 798, "query": "miRNAs deregulate a unique suite of mRNAs to disrupt homeostasis in cells."}
+{"index": 799, "query": "p16INK4A degradation is **unlinked** to an normal wound response despite the non-microinvasive step of benign Oral Potentially Malignant Lesions (OPMLs)."}
+{"index": 800, "query": "p16INK4A stabilization is encoded by CDKN2A."}
+{"index": 801, "query": "p75 NTR - associated cell survival promoter (ASUP) avoids interaction with the p75 NTR death domain"}
+{"index": 802, "query": "qSOFA scores are not associated with length of stay in emergency department patients."}
+{"index": 803, "query": "r-protein chaperones are not found in complexes with their r-protein binding partners."}
+{"index": 804, "query": "Overexpression of A20 slows down tumor regression in a similar in vivo murine xenograft model."}
+{"index": 805, "query": "siRNA overexpression of A20 accelerates tumor progression in an in vivo murine xenograft model."}
+{"index": 806, "query": "taa1 tar1 tar2 triple mutants in Arabidopsis make root meristem during embryogenesis."}
+{"index": 807, "query": "\u03b2-sheet closing occurs during pleurotolysin pore inhibition."}
+{"index": 808, "query": "\u03b21/Ketel is unable to bind microtubules."}
